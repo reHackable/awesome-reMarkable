@@ -13,6 +13,8 @@ Which place would be better for this list than github itself? :grin:
 
 [**morngrar/remarkable-tweak**](https://github.com/morngrar/remarkable-tweak) Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
 
+[**richeymichael/remarkable-assistant**](https://github.com/richeymichael/remarkable-assistant) A tool to use with reMarkable tablets
+
 [**simonschllng/rm-sync**](https://github.com/simonschllng/rm-sync) Sync script for reMarkable paper tablet.
 
 
