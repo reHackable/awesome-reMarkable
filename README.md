@@ -17,4 +17,4 @@ Which place would be better for this list than github itself? :grin:
 
 [**simonschllng/rm-sync**](https://github.com/simonschllng/rm-sync) Sync script for reMarkable paper tablet.
 
-
+[**nick8325/remarkable-fs**](https://github.com/nick8325/remarkable-fs) A FUSE filesystem driver for reMarkable. Lets you to see the contents of your reMarkable as a normal folder on your computer. All your documents and folders are visible; you can copy documents to and from the reMarkable, create folders, and move and delete folders and files.
