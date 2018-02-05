@@ -16,6 +16,9 @@ Which place would be better for this list than github itself? :grin:
 [**ReMarkableAPI**](https://github.com/splitbrain/ReMarkableAPI) by [**splitbrain**](https://github.com/splitbrain)
 > This repository implements a PHP client to talk to the reMarkable File Sync API. This API allows you to exchange files with your reMarkable tablet without the need to be in the same network or have physical access to the device. This makes it possible to create your own cloud services. Eg. tools that periodically sync files to other services like Dropbox or you could add automatic export to reMarkable in your tools.
 
+[**rmapi**](https://github.com/juruen/rmapi) by [**juruen**](https://github.com/juruen)
+> ReMarkable Cloud Go API
+
 ## Cloud Tools
 [**rm-sync**](https://github.com/simonschllng/rm-sync) by [**simonschllng**](https://github.com/simonschllng)
 > Sync script for reMarkable paper tablet.
