@@ -24,7 +24,7 @@ A curated list of projects related to the reMarkable tablet [![Awesome](https://
 - [remarkable-assistant](https://github.com/richeymichael/remarkable-assistant) - A tool to use with reMarkable tablets
 
 ## Documentation
-- [ReMarkableFramebuffer](https://github.com/canselcik/RemarkableFramebuffer) - A collection of scripts, code and general information on what makes Remarkable Paper Tablet tick
+- [ReMarkableFramebuffer](https://github.com/canselcik/RemarkableFramebuffer) - A collection on what makes the Remarkable Paper Tablet tick
 
 ## Launchers
 - [draft-reMarkable](https://github.com/dixonary/draft-reMarkable) - A launcher for the reMarkable tablet, which wraps around the standard interface.
