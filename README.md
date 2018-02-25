@@ -1,14 +1,13 @@
-# other-repos
-A list of repositories related to the reMarkable paper tablet.
+# Awesome reMarkable
+A curated list of projects related to the reMarkable tablet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Which place would be better for this list than github itself? :grin:
-
-# Table Of Contents
 - [APIs](#apis)
 - [Cloud Tools](#cloud-tools)
 - [Device Tools](#device-tools)
 - [Documentation](#documentation)
 - [Launchers](#launchers)
+
+---
 
 ## APIs
 [**lines-are-beautiful**](https://github.com/ax3l/lines-are-beautiful) by [**ax3l**](https://github.com/ax3l)
