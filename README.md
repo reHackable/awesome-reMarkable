@@ -3,12 +3,11 @@ A curated list of projects related to the reMarkable tablet [![Awesome](https://
 
 ## Contents
 
-- [Awesome reMarkable](#awesome-remarkable)
-	- [APIs](#apis)
-	- [Cloud Tools](#cloud-tools)
-	- [Device Tools](#device-tools)
-	- [Documentation](#documentation)
-	- [Launchers](#launchers)
+- [APIs](#apis)
+- [Cloud Tools](#cloud-tools)
+- [Device Tools](#device-tools)
+- [Documentation](#documentation)
+- [Launchers](#launchers)
 
 ## APIs
 
