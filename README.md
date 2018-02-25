@@ -1,7 +1,11 @@
-# Awesome reMarkable
-A curated list of projects related to the reMarkable tablet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome reMarkable [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-_**Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.**_
+
+# [<img src="Awesome.png"></p>](https://github.com/willempienaar/awesome-quantified-self)
+
+The [reMarkable](www.remarkable.com) is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers.
+
+*Contributions are welcome as long as they follow the [guidelines](CONTRIBUTING.md).*
 
 ## Contents
 
