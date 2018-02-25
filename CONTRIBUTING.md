@@ -8,6 +8,7 @@ Please ensure your pull request adheres to the following guidelines:
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions **short** and **simple**, but **descriptive**.
 - Check your spelling and grammar.
+- Maintain consistent and correct naming (ex: `reMarkable`, not `remarkable` or `ReMarkable`)
 - Make sure your text editor is set to remove trailing whitespace.
 
 Thank you for your suggestions!
