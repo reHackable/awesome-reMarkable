@@ -21,7 +21,7 @@ A curated list of projects related to the reMarkable tablet [![Awesome](https://
 - [remarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem wrapper for the reMarkable tablet
 - [instapaper-as-pdf-to-remarkable](https://github.com/fabianmu/instapaper-as-pdf-to-remarkable) - Export Instapaper-Articles to PDF and send them to a connected rM tablet
 - [remarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
-- [remarkable-assistant](https://github.com/richeymichael/remarkable-assistant) - A tool to use with reMarkable tablets
+- [remarkable-assistant](https://github.com/richeymichael/remarkable-assistant) - Manage templates, splash screens, and settings on your reMarkable tablet
 
 ## Documentation
 - [ReMarkableFramebuffer](https://github.com/canselcik/RemarkableFramebuffer) - A collection on what makes the Remarkable Paper Tablet tick
