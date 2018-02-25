@@ -7,6 +7,7 @@ Which place would be better for this list than github itself? :grin:
 - [APIs](#apis)
 - [Cloud Tools](#cloud-tools)
 - [Device Tools](#device-tools)
+- [Documentation](#documentation)
 - [Launchers](#launchers)
 
 ## APIs
@@ -36,9 +37,10 @@ Which place would be better for this list than github itself? :grin:
 [**remarkable-assistant**](https://github.com/richeymichael/remarkable-assistant) by [**richeymichael**](https://github.com/richeymichael)
 > A tool to use with reMarkable tablets
 
+## Documentation
+[**ReMarkableFramebuffer**](https://github.com/canselcik/RemarkableFramebuffer) by [**canselcik**](https://github.com/canselcik)
+> A collection of scripts, code and general information on what makes Remarkable Paper Tablet tick
+
 ## Launchers
 [**draft-reMarkable**](https://github.com/dixonary/draft-reMarkable) by [**dixonary**](https://github.com/dixonary)
 > A launcher for the reMarkable tablet, which wraps around the standard interface.
-
-
-
