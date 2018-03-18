@@ -3,7 +3,7 @@
 
 # [<img src="Awesome.png"></p>](https://github.com/sindresorhus/awesome)
 
-The [reMarkable](www.remarkable.com) is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers.
+The [reMarkable](https://www.remarkable.com) is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers.
 
 *Contributions are welcome as long as they follow the [guidelines](CONTRIBUTING.md).*
 
