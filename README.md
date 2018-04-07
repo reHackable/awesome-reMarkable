@@ -12,11 +12,11 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [APIs](#apis)
 - [Cloud Tools](#cloud-tools)
 - [Device Tools](#device-tools)
-- [Documentation](#documentation)
 - [Launchers](#launchers)
 
 ## APIs
 
+- [libremarkable](https://github.com/canselcik/libremarkable) - A framework for developing applications with native refresh support for Remarkable Tablet 
 - [lines-are-beautiful](https://github.com/ax3l/lines-are-beautiful) - C++ File API for the reMarkable tablet.
 - [reMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API.
 - [rMAPI](https://github.com/juruen/rmapi) - ReMarkable Cloud Go API.
@@ -29,9 +29,6 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [instapaper-as-pdf-to-reMarkable](https://github.com/fabianmu/instapaper-as-pdf-to-remarkable) - Export Instapaper-Articles to PDF and send them to a connected rM tablet.
 - [reMarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
 - [reMarkable-assistant](https://github.com/richeymichael/remarkable-assistant) - Manage templates, splash screens, and settings on your reMarkable tablet.
-
-## Documentation
-- [reMarkableFramebuffer](https://github.com/canselcik/RemarkableFramebuffer) - A collection on what makes the Remarkable Paper Tablet tick
 
 ## Launchers
 - [draft-reMarkable](https://github.com/dixonary/draft-reMarkable) - A launcher for the reMarkable tablet, which wraps around the standard interface.
