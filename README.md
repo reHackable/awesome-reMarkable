@@ -21,6 +21,10 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [reMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API.
 - [rMAPI](https://github.com/juruen/rmapi) - ReMarkable Cloud Go API.
 
+## Applications
+
+- [plato](https://github.com/darvin/plato) - Plato reader port. Supports pdfs, epubs, many other formats.
+
 ## Cloud Tools
 - [rM-sync](https://github.com/simonschllng/rm-sync) - Sync script for reMarkable paper tablet.
 
@@ -33,9 +37,6 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [reMarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
 - [rM-dl-annotated](https://github.com/jmptable/rm-dl-annotated) - Export annotated PDFs from reMarkable tablets
 
-## Applications
-
-- [plato](https://github.com/darvin/plato) - Plato reader port. Supports pdfs, epubs, many other formats.
 
 ## Launchers
 - [draft-reMarkable](https://github.com/dixonary/draft-reMarkable) - A launcher for the reMarkable tablet, which wraps around the standard interface.
