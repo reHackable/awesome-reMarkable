@@ -10,7 +10,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 ## Contents
 
 - [APIs](#apis)
-- [Applications]($applications)
+- [Applications](#applications)
 - [Cloud Tools](#cloud-tools)
 - [Device Tools](#device-tools)
 - [Launchers](#launchers)
