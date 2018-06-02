@@ -11,5 +11,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Maintain consistent and correct naming (ex: `reMarkable`, not `remarkable` or `ReMarkable`).
 - Make sure your text editor is set to remove trailing whitespace.
+- Order your suggestions alphabetically.
 
 Thank you for your suggestions!
