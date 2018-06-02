@@ -33,5 +33,9 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [reMarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
 - [rM-dl-annotated](https://github.com/jmptable/rm-dl-annotated) - Export annotated PDFs from reMarkable tablets
 
+## Apps
+
+- [plato](https://github.com/darvin/plato) - Plato reader port. Supports pdfs, epubs, many other formats.
+
 ## Launchers
 - [draft-reMarkable](https://github.com/dixonary/draft-reMarkable) - A launcher for the reMarkable tablet, which wraps around the standard interface.
