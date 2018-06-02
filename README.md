@@ -27,8 +27,8 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [plato](https://github.com/darvin/plato) - Plato reader port. Supports pdfs, epubs, many other formats.
 
 ## Cloud Tools
-- [rM-sync](https://github.com/simonschllng/rm-sync) - Sync script for reMarkable paper tablet.
 - [reMarkable Web App](https://remarkableweb.app) - Web App for interfacing with the reMarkable paper tablet.
+- [rM-sync](https://github.com/simonschllng/rm-sync) - Sync script for reMarkable paper tablet.
 
 ## Device Tools
 - [instapaper-as-pdf-to-reMarkable](https://github.com/fabianmu/instapaper-as-pdf-to-remarkable) - Export Instapaper-Articles to PDF and send them to a connected rM tablet.
