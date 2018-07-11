@@ -17,7 +17,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 
 ## APIs
 
-- [libremarkable](https://github.com/canselcik/libremarkable) - A framework for developing applications with native refresh support for Remarkable Tablet
+- [libremarkable](https://github.com/canselcik/libremarkable) - A framework for developing applications with native refresh support for Remarkable Tablet.
 - [lines-are-beautiful](https://github.com/ax3l/lines-are-beautiful) - C++ File API for the reMarkable tablet.
 - [reMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API.
 - [rMAPI](https://github.com/juruen/rmapi) - ReMarkable Cloud Go API.
@@ -33,12 +33,12 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 ## Device Tools
 - [instapaper-as-pdf-to-reMarkable](https://github.com/fabianmu/instapaper-as-pdf-to-remarkable) - Export Instapaper-Articles to PDF and send them to a connected rM tablet.
 - [jGrass](http://jgrasstechtips.blogspot.com/2018/07/do-you-own-remarkable-this-could-help.html) - A GUI written in java to backup your device, upload templates and modify spash screens.
-- [reHackable/maxio](https://github.com/reHackable/maxio) - Companion daemon for the reMarkable paper tablet
-- [reHackable/scripts](https://github.com/reHackable/scripts) - A set of bash scripts that may enhance your reMarkable experience
+- [reHackable/maxio](https://github.com/reHackable/maxio) - Companion daemon for the reMarkable paper tablet.
+- [reHackable/scripts](https://github.com/reHackable/scripts) - A set of bash scripts that may enhance your reMarkable experience.
 - [reMarkable-assistant](https://github.com/richeymichael/remarkable-assistant) - Manage templates, splash screens, and settings on your reMarkable tablet.
 - [reMarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem wrapper for the reMarkable tablet.
 - [reMarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
-- [rM-dl-annotated](https://github.com/jmptable/rm-dl-annotated) - Export annotated PDFs from reMarkable tablets
+- [rM-dl-annotated](https://github.com/jmptable/rm-dl-annotated) - Export annotated PDFs from reMarkable tablets.
 
 ## Launchers
 - [draft-reMarkable](https://github.com/dixonary/draft-reMarkable) - A launcher for the reMarkable tablet, which wraps around the standard interface.
