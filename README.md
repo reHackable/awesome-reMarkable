@@ -29,6 +29,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 ## Cloud Tools
 - [reMarkable Web App](https://remarkableweb.app) - Web App for interfacing with the reMarkable paper tablet.
 - [rM-sync](https://github.com/simonschllng/rm-sync) - Sync script for reMarkable paper tablet.
+- [zotero-remarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
 
 ## Device Tools
 - [instapaper-as-pdf-to-reMarkable](https://github.com/fabianmu/instapaper-as-pdf-to-remarkable) - Export Instapaper-Articles to PDF and send them to a connected rM tablet.
