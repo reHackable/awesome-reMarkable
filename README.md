@@ -31,6 +31,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [rM-sync](https://github.com/simonschllng/rm-sync) - Sync script for reMarkable paper tablet.
 
 ## Device Tools
+- [Funcky.Remarkable.Exporter](https://github.com/simonbaudart/Funcky.Remarkable.Exporter) - Export notes from a reMarkable Tablet to File System and External Services.
 - [instapaper-as-pdf-to-reMarkable](https://github.com/fabianmu/instapaper-as-pdf-to-remarkable) - Export Instapaper-Articles to PDF and send them to a connected rM tablet.
 - [jGrass](http://jgrasstechtips.blogspot.com/2018/07/do-you-own-remarkable-this-could-help.html) - A GUI written in java to backup your device, upload templates and modify spash screens.
 - [reHackable/maxio](https://github.com/reHackable/maxio) - Companion daemon for the reMarkable paper tablet.
