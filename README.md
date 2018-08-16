@@ -17,7 +17,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 
 ## APIs
 
-- [libremarkable](https://github.com/canselcik/libremarkable) - A framework for developing applications with native refresh support for Remarkable Tablet.
+- [libremarkable](https://github.com/canselcik/libremarkable) - A framework for developing applications with native refresh support for reMarkable Tablet.
 - [lines-are-beautiful](https://github.com/ax3l/lines-are-beautiful) - C++ File API for the reMarkable tablet.
 - [reMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API.
 - [rMAPI](https://github.com/juruen/rmapi) - ReMarkable Cloud Go API.
@@ -29,10 +29,10 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 ## Cloud Tools
 - [reMarkable Web App](https://remarkableweb.app) - Web App for interfacing with the reMarkable paper tablet.
 - [rM-sync](https://github.com/simonschllng/rm-sync) - Sync script for reMarkable paper tablet.
-- [zotero-remarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
+- [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
 
 ## Device Tools
-- [Funcky.Remarkable.Exporter](https://github.com/simonbaudart/Funcky.Remarkable.Exporter) - Export notes from a reMarkable Tablet to File System and External Services.
+- [Funcky reMarkable Exporter](https://github.com/simonbaudart/Funcky.Remarkable.Exporter) - Export notes from a reMarkable Tablet to File System and External Services.
 - [instapaper-as-pdf-to-reMarkable](https://github.com/fabianmu/instapaper-as-pdf-to-remarkable) - Export Instapaper-Articles to PDF and send them to a connected rM tablet.
 - [jGrass](http://jgrasstechtips.blogspot.com/2018/07/do-you-own-remarkable-this-could-help.html) - A GUI written in java to backup your device, upload templates and modify spash screens.
 - [reHackable/maxio](https://github.com/reHackable/maxio) - Companion daemon for the reMarkable paper tablet.
