@@ -25,7 +25,6 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 ## Applications
 
 - [plato](https://github.com/darvin/plato) - Plato reader port. Supports pdfs, epubs, many other formats.
-- [rMExplorer](https://github.com/bruot/pyrmexplorer/wiki) - GUI to browse and download files on reMarkable tablets using the USB interface.
 
 ## Cloud Tools
 - [CUPS Printing](https://ofosos.org/2018/10/22/printing-to-remarkable-cloud-from-cups/) - Script to print directly to reMarkable Cloud from CUPS using rMAPI.
@@ -48,6 +47,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [rM-dl-annotated](https://github.com/jmptable/rm-dl-annotated) - Export annotated PDFs from reMarkable tablets.
 - [rmWebUiTools](https://github.com/LinusCDE/rmWebUiTools) - View a file tree, see statistics and export/backup all files with some simple scripts utilizing the web ui.
 - [srvfb](https://github.com/merovius/srvfb) - Alternative screen-streaming software. Written in Go.
+- [rMExplorer](https://github.com/bruot/pyrmexplorer/wiki) - GUI to browse and download files on reMarkable tablets using the USB interface.
 
 ## Launchers
 - [draft-reMarkable](https://github.com/dixonary/draft-reMarkable) - A launcher for the reMarkable tablet, which wraps around the standard interface.
