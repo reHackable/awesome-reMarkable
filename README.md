@@ -30,6 +30,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [CUPS Printing](https://ofosos.org/2018/10/22/printing-to-remarkable-cloud-from-cups/) - Script to print directly to reMarkable Cloud from CUPS using rMAPI.
 - [reMarkable Web App](https://remarkableweb.app) - Web App for interfacing with the reMarkable paper tablet.
 - [rM-sync](https://github.com/simonschllng/rm-sync) - Sync script for reMarkable paper tablet.
+- [remarkable_syncthing](http://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
 
 ## Device Tools
