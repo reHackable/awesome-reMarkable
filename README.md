@@ -47,6 +47,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [remarkable_pdflets](https://github.com/evidlo/remarkable_pdflets) - Dynamically updating PDFs.
 - [reMarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
 - [reMarkable_entware](http://github.com/evidlo/remarkable_entware) - Package manager for reMarkable.  Install common Unix utilities through the command line.
+- [remarkable-touchgestures](https://github.com/ddvk/remarkable-touchgestures) - Touch gestures (swipe/touch) for easy page navigation.
 - [remt](https://gitlab.com/wrobell/remt) - reMarkable tablet command-line tools.
 - [rMExplorer](https://github.com/bruot/pyrmexplorer/wiki) - GUI to browse and download files on reMarkable tablets using the USB interface.
 - [rM-dl-annotated](https://github.com/jmptable/rm-dl-annotated) - Export annotated PDFs from reMarkable tablets.
