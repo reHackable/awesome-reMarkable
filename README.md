@@ -26,6 +26,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 ## Applications
 
 - [plato](https://github.com/darvin/plato) - Plato reader port. Supports pdfs, epubs, many other formats.
+- [reMarkable wikipedia](https://github.com/dps/remarkable-wikipedia) - Offline wikipedia reader for reMarkable.
 
 ## Cloud Tools
 - [CUPS Printing](https://ofosos.org/2018/10/22/printing-to-remarkable-cloud-from-cups/) - Script to print directly to reMarkable Cloud from CUPS using rMAPI.
