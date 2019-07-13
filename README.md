@@ -26,7 +26,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 ## Applications
 
 - [plato](https://github.com/darvin/plato) - Plato reader port. Supports pdfs, epubs, many other formats.
-- [reMarkable_keywriter](https://github.com/dps/remarkable-keywriter) - A distraction free keyboard notes app.
+- [reMarkable keywriter](https://github.com/dps/remarkable-keywriter) - A distraction free keyboard notes app.
 - [reMarkable wikipedia](https://github.com/dps/remarkable-wikipedia) - Offline wikipedia reader for reMarkable.
 
 ## Cloud Tools
