@@ -23,6 +23,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [lines-are-rusty](https://github.com/ax3l/lines-are-rusty) - Rust File API for the reMarkable tablet.
 - [reMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API.
 - [rMAPI](https://github.com/juruen/rmapi) - ReMarkable Cloud Go API.
+- [rmapi](https://github.com/subutux/rmapi) - ReMarkable Cloud Python API.
 
 ## Applications
 
