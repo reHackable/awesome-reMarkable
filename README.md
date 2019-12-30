@@ -22,7 +22,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [lines-are-beautiful](https://github.com/ax3l/lines-are-beautiful) - C++ File API for the reMarkable tablet.
 - [lines-are-rusty](https://github.com/ax3l/lines-are-rusty) - Rust File API for the reMarkable tablet.
 - [reMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API.
-- [remarkable-node](https://github.com/kevlened/remarkable-node) - ReMarkable Cloud Node.js API.
+- [reMarkable-node](https://github.com/kevlened/remarkable-node) - ReMarkable Cloud Node.js API.
 - [rMAPI](https://github.com/juruen/rmapi) - ReMarkable Cloud Go API.
 - [rmapy](https://github.com/subutux/rmapy) - ReMarkable Cloud Python API.
 
