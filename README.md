@@ -57,6 +57,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [reMarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
 - [reMarkable-touchgestures](https://github.com/ddvk/remarkable-touchgestures) - Touch gestures (swipe/touch) for easy page navigation.
 - [remt](https://gitlab.com/wrobell/remt) - reMarkable tablet command-line tools.
+- [reStream](https://github.com/rien/reStream) - Stream your reMarkable screen over SSH.
 - [rMExplorer](https://github.com/bruot/pyrmexplorer/wiki) - GUI to browse, download/upload files and backup the tablet without using the cloud.
 - [rM-dl-annotated](https://github.com/jmptable/rm-dl-annotated) - Export annotated PDFs from reMarkable tablets.
 - [rMsync](https://github.com/lschwetlick/rMsync) - Synchronisation script with a local dedicated "library" folder.
