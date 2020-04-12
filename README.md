@@ -31,6 +31,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [plato](https://github.com/darvin/plato) - Plato reader port. Supports pdfs, epubs, many other formats.
 - [reMarkable keywriter](https://github.com/dps/remarkable-keywriter) - A distraction free keyboard notes app.
 - [reMarkable wikipedia](https://github.com/dps/remarkable-wikipedia) - Offline wikipedia reader for reMarkable.
+- [rmvncclient](https://github.com/matteodelabre/rmvncclient) - VNC client for the reMarkable tablet allowing you to turn the device into an external screen.
 
 ## Cloud Tools
 - [CUPS Printing](https://ofosos.org/2018/10/22/printing-to-remarkable-cloud-from-cups/) - Script to print directly to reMarkable Cloud from CUPS using rMAPI.
