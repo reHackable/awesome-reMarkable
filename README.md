@@ -27,7 +27,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [reMarkable-typescript](https://github.com/Ogdentrod/reMarkable-typescript) - TypeScript API for reMarkable Cloud.
 - [rMAPI](https://github.com/juruen/rmapi) - ReMarkable Cloud Go API.
 - [rmapy](https://github.com/subutux/rmapy) - ReMarkable Cloud Python API.
-- [rmfakecloud](https://github.com/ddvk/rmfakecloud) - Fake Cloud Sync, self-hosted cloud sync.
+- [rmfakecloud](https://github.com/ddvk/rmfakecloud) - Fake Cloud Sync, server implementation of the Cloud API
 
 ## Applications
 
