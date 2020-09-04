@@ -85,7 +85,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 
 ## Games
 
-- [retris](https://github.com/LinusCDE/retris/) - Play a clone of the popular block stacking game with either buttons or swipe guestures.
+- [retris](https://github.com/LinusCDE/retris) - Play a clone of the popular block stacking game with either buttons or swipe guestures.
 
 ## Launchers
 
