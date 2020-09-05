@@ -83,6 +83,11 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [rmWebUiTools](https://github.com/LinusCDE/rmWebUiTools) - View a file tree, see statistics and export/backup all files with some simple scripts utilizing the web ui.
 - [srvfb](https://github.com/merovius/srvfb) - Alternative screen-streaming software. Written in Go.
 
+## Games
+
+- [retris](https://github.com/LinusCDE/retris) - Play a clone of the popular block stacking game with either buttons or swipe guestures.
+
 ## Launchers
+
 - [draft-reMarkable](https://github.com/dixonary/draft-reMarkable) - A launcher for the reMarkable tablet, which wraps around the standard interface.
 - [oxide](https://github.com/Eeems/oxide/releases) - A launcher application for the reMarkable tablet.
