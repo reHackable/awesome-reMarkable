@@ -32,8 +32,9 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 ## Applications
 
 - [asTounding](https://github.com/jlarriba/astounding) -  A multiplatform GUI application for the reMarkable cloud, including Linux.
-- [harmony](https://github.com/rmkit-dev/rmkit/tree/master/src/harmony) - a low latency sketching app with procedural brushes.
+- [harmony](https://rmkit.dev/apps/harmony) - a low latency sketching app with procedural brushes.
 - [KOReader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.
+- [minesweeper](https://rmkit.dev/apps/minesweeper) - A mine detection game
 - [plato](https://github.com/darvin/plato) - Plato reader port. Supports pdfs, epubs, many other formats.
 - [reMarkable keywriter](https://github.com/dps/remarkable-keywriter) - A distraction free keyboard notes app.
 - [reMarkable wikipedia](https://github.com/dps/remarkable-wikipedia) - Offline wikipedia reader for reMarkable.
@@ -91,3 +92,4 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 
 - [draft-reMarkable](https://github.com/dixonary/draft-reMarkable) - A launcher for the reMarkable tablet, which wraps around the standard interface.
 - [oxide](https://github.com/Eeems/oxide/releases) - A launcher application for the reMarkable tablet.
+- [remux](https://rmkit.dev/apps/remux) - A multi-tasking launcher for the reMarkable tablet
