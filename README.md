@@ -11,11 +11,11 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 
 - [APIs](#apis)
 - [Applications](#applications)
+- - [Games](#games)
 - - [Launchers](#launchers)
 - [Cloud Tools](#cloud-tools)
 - [Collection of scripts]()
 - [Device Tools](#device-tools)
-- [Games](#games)
 - [GUI Clients](#gui-clients)
 - [Other](#other)
 - [Screen Sharing/Streaming](#screen-sharingstreaming)
@@ -42,6 +42,10 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [reMarkable keywriter](https://github.com/dps/remarkable-keywriter) - A distraction free keyboard notes app.
 - [reMarkable wikipedia](https://github.com/dps/remarkable-wikipedia) - Offline wikipedia reader for reMarkable.
 
+### Games
+
+- [retris](https://github.com/LinusCDE/retris) - Play a clone of the popular block stacking game with either buttons or swipe guestures.
+- [minesweeper](https://rmkit.dev/apps/minesweeper) - A mine detection game
 
 ### Launchers
 
@@ -57,11 +61,6 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [reMarkable_syncthing](http://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable.
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
 - [sync_zotero_remarkable](https://github.com/danijoo/sync_zotero_remarkable) - Sync PDFs from Zotero to Remarkable.
-
-## Games
-
-- [retris](https://github.com/LinusCDE/retris) - Play a clone of the popular block stacking game with either buttons or swipe guestures.
-- [minesweeper](https://rmkit.dev/apps/minesweeper) - A mine detection game
 
 ## GUI Clients
 
