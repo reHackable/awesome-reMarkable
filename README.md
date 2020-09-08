@@ -18,7 +18,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - [Games](#games)
 - [GUI Clients](#gui-clients)
 - [Other](#other)
-- [Screen Sharing/Streaming](#screen-sharing/streaming)
+- [Screen Sharing/Streaming](#screen-sharingstreaming)
 
 ## APIs
 
