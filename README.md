@@ -14,7 +14,6 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 - - [Games](#games)
 - - [Launchers](#launchers)
 - [Cloud Tools](#cloud-tools)
-- [Collection of scripts]()
 - [Device Tools](#device-tools)
 - [GUI Clients](#gui-clients)
 - [Other](#other)
