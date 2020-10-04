@@ -43,7 +43,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 
 ### Games
 
-- [chess](https://github.com/LinusCDE/chess) - Play chess against a bot or a friend.
+- [chessMarkable](https://github.com/LinusCDE/chessmarkable) - Play chess against a bot or a friend.
 - [minesweeper](https://rmkit.dev/apps/minesweeper) - A mine detection game.
 - [retris](https://github.com/LinusCDE/retris) - Play a clone of the popular block stacking game with either buttons or swipe guestures.
 
