@@ -110,6 +110,6 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 
 - [reStream](https://github.com/rien/reStream) - Stream your reMarkable screen over SSH.
 - [rMview](https://github.com/bordaigorl/rmview) - A fast GUI to stream your reMarkable screen over vanilla-SSH or VNC.
-- [rmvncclient](https://github.com/matteodelabre/rmvncclient) - VNC client for the reMarkable tablet allowing you to turn the device into an external screen.
 - [rM-vnc-server](https://github.com/peter-sa/rM-vnc-server) - A fast & efficient damage-tracking (sending only updated regions) VNC server for streaming the reMarkable's screen.
 - [srvfb](https://github.com/merovius/srvfb) - Alternative screen-streaming software. Written in Go.
+- [VNSee](https://github.com/matteodelabre/vnsee) - VNC client for the reMarkable tablet allowing you to use the device as a second screen.
