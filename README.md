@@ -7,6 +7,12 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 
 *Contributions are welcome as long as they follow the [guidelines](CONTRIBUTING.md).*
 
+## reMarkable 2 disclaimer
+
+Take special care if you are using a reMarkable 2:
+- There is no tool for system recovery. If you lose ssh access you lose access to the device. Write down your password.
+- The screen on rm2 and rm1 are different. No application drawing into rm2 screen works yet.
+
 ## Contents
 
 - [APIs](#apis)
