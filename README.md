@@ -11,7 +11,8 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 
 Take special care if you are using a reMarkable 2:
 - There is no tool for system recovery. If you lose ssh access you lose access to the device. Write down your password.
-- The screen on rm2 and rm1 are different. No application drawing into rm2 screen works yet.
+- The screen on rm2 and rm1 are different. ~~No application drawing into rm2 screen works yet.~~ Check [remarkable2-framebuffer repo](https://github.com/ddvk/remarkable2-framebuffer) and [#14](https://github.com/ddvk/remarkable2-framebuffer/issues/14)
+
 
 ## Contents
 
