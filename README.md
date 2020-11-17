@@ -16,18 +16,15 @@ Take special care if you are using a reMarkable 2:
 
 ## Contents
 
-- [Awesome reMarkable ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-remarkable-)
-- [<img src="Awesome.png"></p>](#p)
-	- [reMarkable 2 disclaimer](#remarkable-2-disclaimer)
-	- [Contents](#contents)
-	- [APIs](#apis)
-	- [Applications](#applications)
-		- [Games](#games)
-		- [Launchers](#launchers)
-	- [Cloud Tools](#cloud-tools)
-	- [GUI Clients](#gui-clients)
-	- [Other](#other)
-	- [Screen Sharing/Streaming](#screen-sharingstreaming)
+- [APIs](#apis)
+- [Applications](#applications)
+- - [Games](#games)
+- - [Launchers](#launchers)
+- [Cloud Tools](#cloud-tools)
+- [Device Tools](#device-tools)
+- [GUI Clients](#gui-clients)
+- [Other](#other)
+- [Screen Sharing/Streaming](#screen-sharingstreaming)
 
 ## APIs
 
@@ -126,3 +123,4 @@ Take special care if you are using a reMarkable 2:
 - [rM-vnc-server](https://github.com/peter-sa/rM-vnc-server) - A fast & efficient damage-tracking (sending only updated regions) VNC server for streaming the reMarkable's screen.
 - [srvfb](https://github.com/merovius/srvfb) - Alternative screen-streaming software. Written in Go.
 - [VNSee](https://github.com/matteodelabre/vnsee) - VNC client for the reMarkable tablet allowing you to use the device as a second screen.
+
