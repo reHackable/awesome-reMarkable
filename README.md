@@ -16,15 +16,18 @@ Take special care if you are using a reMarkable 2:
 
 ## Contents
 
-- [APIs](#apis)
-- [Applications](#applications)
-- - [Games](#games)
-- - [Launchers](#launchers)
-- [Cloud Tools](#cloud-tools)
-- [Device Tools](#device-tools)
-- [GUI Clients](#gui-clients)
-- [Other](#other)
-- [Screen Sharing/Streaming](#screen-sharingstreaming)
+- [Awesome reMarkable ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-remarkable-)
+- [<img src="Awesome.png"></p>](#p)
+	- [reMarkable 2 disclaimer](#remarkable-2-disclaimer)
+	- [Contents](#contents)
+	- [APIs](#apis)
+	- [Applications](#applications)
+		- [Games](#games)
+		- [Launchers](#launchers)
+	- [Cloud Tools](#cloud-tools)
+	- [GUI Clients](#gui-clients)
+	- [Other](#other)
+	- [Screen Sharing/Streaming](#screen-sharingstreaming)
 
 ## APIs
 
@@ -66,6 +69,7 @@ Take special care if you are using a reMarkable 2:
 
 - [CUPS Printing](https://ofosos.org/2018/10/22/printing-to-remarkable-cloud-from-cups/) - Script to print directly to reMarkable Cloud from CUPS using rMAPI.
 - [rM-sync](https://github.com/simonschllng/rm-sync) - Sync script for reMarkable paper tablet.
+- [reMarkable-Sink](http://github.com/hmenzagh/reMarkable-Sink) - Turn a folder into a wormhole to your reMarkable.
 - [reMarkable_syncthing](http://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable.
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
 - [sync_zotero_remarkable](https://github.com/danijoo/sync_zotero_remarkable) - Sync PDFs from Zotero to Remarkable.
