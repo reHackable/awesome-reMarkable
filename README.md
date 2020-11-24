@@ -69,6 +69,7 @@ Take special care if you are using a reMarkable 2:
 - [reMarkable_syncthing](http://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable.
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
 - [sync_zotero_remarkable](https://github.com/danijoo/sync_zotero_remarkable) - Sync PDFs from Zotero to Remarkable.
+- [remarkable-explorer](https://remarkable-explorer.com) - web-based user interface to view and edit contents of your Remarkable cloud
 
 ## GUI Clients
 
