@@ -53,7 +53,7 @@ Take special care if you are using a reMarkable 2:
 
 - [chessMarkable](https://github.com/LinusCDE/chessmarkable) - Play chess against a bot or a friend.
 - [minesweeper](https://rmkit.dev/apps/minesweeper) - A mine detection game.
-- [recrossable](https://github.com/sandsmark/recrossable) - Simple crossword game
+- [recrossable](https://github.com/sandsmark/recrossable) - Crossword game with simplistic handwriting recognition and automatic generation of crosswords.
 - [retris](https://github.com/LinusCDE/retris) - Play a clone of the popular block stacking game with either buttons or swipe guestures.
 
 ### Launchers
