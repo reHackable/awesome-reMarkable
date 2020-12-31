@@ -25,6 +25,7 @@ Take special care if you are using a reMarkable 2:
 - [GUI Clients](#gui-clients)
 - [Other](#other)
 - [Screen Sharing/Streaming](#screen-sharingstreaming)
+- [Custom Templates](#custom-templates)
 
 ## APIs
 
@@ -122,3 +123,8 @@ Take special care if you are using a reMarkable 2:
 - [rM-vnc-server](https://github.com/peter-sa/rM-vnc-server) - A fast & efficient damage-tracking (sending only updated regions) VNC server for streaming the reMarkable's screen.
 - [srvfb](https://github.com/merovius/srvfb) - Alternative screen-streaming software. Written in Go.
 - [VNSee](https://github.com/matteodelabre/vnsee) - VNC client for the reMarkable tablet allowing you to use the device as a second screen.
+
+
+## Custom Templates
+
+- [remarkabletemplates](https://github.com/equivocates/remarkabletemplates/) - Planner per 1 or 3 weeks
