@@ -23,8 +23,8 @@ Take special care if you are using a reMarkable 2:
 - [Cloud Tools](#cloud-tools)
 - [Device Tools](#device-tools)
 - [GUI Clients](#gui-clients)
-- [Other](#other)
 - [Screen Sharing/Streaming](#screen-sharingstreaming)
+- [Other](#other)
 
 ## APIs
 
@@ -82,6 +82,23 @@ Take special care if you are using a reMarkable 2:
 - [rMExplorer](https://github.com/bruot/pyrmexplorer/wiki) - GUI to browse, download/upload files and backup the tablet without using the cloud.
 - [rmUploader](https://github.com/lobre/rmuploader) - Simple web app to upload epub or pdf files to the reMarkable tablet via drag and drop.
 
+## Screen Sharing/Streaming/Input
+
+|         | Video           | Input |
+|---------|-----------------|-------|
+| from rM | [reStream](https://github.com/rien/reStream)<br> [rMview](https://github.com/bordaigorl/rmview)<br>[srvfb](https://github.com/merovius/srvfb)<br>   [rM-vnc-server](https://github.com/peter-sa/rM-vnc-server)   | [pipes and paper](https://gitlab.com/afandian/pipes-and-paper)<br>[reMarkable_mouse](https://github.com/evidlo/remarkable_mouse) <br>[reMarkable_keyboard](https://github.com/Evidlo/remarkable_keyboard) |
+| from PC |       [VNSee](https://github.com/matteodelabre/vnsee)          |       |
+
+- [pipes and paper](https://gitlab.com/afandian/pipes-and-paper) - Stream pen strokes to browser canvas via websockets ([blog post](https://blog.afandian.com/2020/10/pipes-and-paper-remarkable/)). Uses Python and SSH, nothing to compile or install on the reMarkable device. 
+- [reStream](https://github.com/rien/reStream) - Stream your reMarkable screen over SSH.
+- [rMview](https://github.com/bordaigorl/rmview) - A fast GUI to stream your reMarkable screen over vanilla-SSH or VNC.
+- [rM-vnc-server](https://github.com/peter-sa/rM-vnc-server) - A fast & efficient damage-tracking (sending only updated regions) VNC server for streaming the reMarkable's screen.
+- [srvfb](https://github.com/merovius/srvfb) - Alternative screen-streaming software. Written in Go.
+- [VNSee](https://github.com/matteodelabre/vnsee) - VNC client for the reMarkable tablet allowing you to use the device as a second screen.
+- [reMarkable_mouse](https://github.com/evidlo/remarkable_mouse) - Use your reMarkable as a graphics tablet.
+- [reMarkable_keyboard](https://github.com/evidlo/remarkable_keyboard) - Software to use rM as wireless keyboard/mouse.
+
+
 ## Other
 
 - [Crazy Cow](https://github.com/machinelevel/sp425-crazy-cow) - Typewriter input from USB keyboard directly into reMarkable interface.
@@ -96,8 +113,6 @@ Take special care if you are using a reMarkable 2:
 - [reHackable/maxio](https://github.com/reHackable/maxio) - Companion daemon for the reMarkable paper tablet.
 - [reHackable/scripts](https://github.com/reHackable/scripts) - A set of bash scripts that may enhance your reMarkable experience.
 - [reMarkable_entware](http://github.com/evidlo/remarkable_entware) - Package manager for reMarkable.  Install common Unix utilities through the command line.
-- [reMarkable_keyboard](https://github.com/Evidlo/remarkable_keyboard) - Software to use rM as wireless keyboard/mouse.
-- [reMarkable_mouse](https://github.com/evidlo/remarkable_mouse) - Use your reMarkable as a graphics tablet.
 - [remarkable_news](https://github.com/evidlo/remarkable_news) - Use daily news/comics/images as the suspend screen.
 - [reMarkable_pdflets](https://github.com/evidlo/remarkable_pdflets) - Dynamically updating PDFs.
 - [remarkable_printer](https://github.com/Evidlo/remarkable_printer) - Print from any device to reMarkable without browser extensions or reMarkable cloud.
@@ -112,13 +127,3 @@ Take special care if you are using a reMarkable 2:
 - [rmTabletDriver](https://github.com/LinusCDE/rmTabletDriver) - Application that allows you to simulate/clone rM input on your computer.
 - [rmWacomToMouse](https://github.com/LinusCDE/rmWacomToMouse) - Use the wacom pen as a mouse to draw on your pc.
 - [rmWebUiTools](https://github.com/LinusCDE/rmWebUiTools) - View a file tree, see statistics and export/backup all files with some simple scripts utilizing the web ui.
-
-
-## Screen Sharing/Streaming
-
-- [pipes and paper](https://gitlab.com/afandian/pipes-and-paper) - Stream pen strokes to browser canvas via websockets ([blog post](https://blog.afandian.com/2020/10/pipes-and-paper-remarkable/)). Uses Python and SSH, nothing to compile or install on the reMarkable device. 
-- [reStream](https://github.com/rien/reStream) - Stream your reMarkable screen over SSH.
-- [rMview](https://github.com/bordaigorl/rmview) - A fast GUI to stream your reMarkable screen over vanilla-SSH or VNC.
-- [rM-vnc-server](https://github.com/peter-sa/rM-vnc-server) - A fast & efficient damage-tracking (sending only updated regions) VNC server for streaming the reMarkable's screen.
-- [srvfb](https://github.com/merovius/srvfb) - Alternative screen-streaming software. Written in Go.
-- [VNSee](https://github.com/matteodelabre/vnsee) - VNC client for the reMarkable tablet allowing you to use the device as a second screen.
