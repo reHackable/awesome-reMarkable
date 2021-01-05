@@ -122,3 +122,4 @@ Take special care if you are using a reMarkable 2:
 - [rM-vnc-server](https://github.com/peter-sa/rM-vnc-server) - A fast & efficient damage-tracking (sending only updated regions) VNC server for streaming the reMarkable's screen.
 - [srvfb](https://github.com/merovius/srvfb) - Alternative screen-streaming software. Written in Go.
 - [VNSee](https://github.com/matteodelabre/vnsee) - VNC client for the reMarkable tablet allowing you to use the device as a second screen.
+- [goMarkableStream](https://github.com/owulveryck/goMarkableStream) - Stream the screen of the remarkable2 (FW 2.5) easily (client/server in Go with no installation)
