@@ -40,6 +40,7 @@ Take special care if you are using a reMarkable 2:
 - [rMAPI](https://github.com/juruen/rmapi) - ReMarkable Cloud Go API.
 - [rmapy](https://github.com/subutux/rmapy) - ReMarkable Cloud Python API.
 - [rmfakecloud](https://github.com/ddvk/rmfakecloud) - Fake Cloud Sync, server implementation of the Cloud API.
+- [Remarkable.jl](https://github.com/theogf/Remarkable.jl) - Julia API Interface to the Remarkable cloud 
 
 ## Applications
 
