@@ -70,6 +70,9 @@ Take special care if you are using a reMarkable 2:
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
 - [sync_zotero_remarkable](https://github.com/danijoo/sync_zotero_remarkable) - Sync PDFs from Zotero to Remarkable.
 
+## Device Tools
+- [ReCept](https://github.com/funkey/recept/) - Fix for the rM2 jagged line issue.
+
 ## GUI Clients
 
 - [asTounding](https://github.com/jlarriba/astounding) -  A multiplatform GUI application for the reMarkable cloud, including Linux.
