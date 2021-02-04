@@ -45,7 +45,7 @@ Take special care if you are using a reMarkable 2:
 
 - [harmony](https://rmkit.dev/apps/harmony) - a low latency sketching app with procedural brushes.
 - [KOReader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.
-- [plato](https://github.com/darvin/plato) - Plato reader port. Supports pdfs, epubs, many other formats.
+- [darvin/plato](https://github.com/darvin/plato) [LinusCDE/plato](https://github.com/LinusCDE/plato) - Plato reader port. Supports pdfs, epubs, many other formats.
 - [reMarkable keywriter](https://github.com/dps/remarkable-keywriter) - A distraction free keyboard notes app.
 - [reMarkable wikipedia](https://github.com/dps/remarkable-wikipedia) - Offline wikipedia reader for reMarkable.
 
