@@ -25,6 +25,7 @@ Take special care if you are using a reMarkable 2:
 - [GUI Clients](#gui-clients)
 - [Other](#other)
 - [Screen Sharing/Streaming](#screen-sharingstreaming)
+- [Custom Templates](#custom-templates)
 
 ## APIs
 
@@ -125,3 +126,12 @@ Take special care if you are using a reMarkable 2:
 - [rM-vnc-server](https://github.com/peter-sa/rM-vnc-server) - A fast & efficient damage-tracking (sending only updated regions) VNC server for streaming the reMarkable's screen.
 - [srvfb](https://github.com/merovius/srvfb) - Alternative screen-streaming software. Written in Go.
 - [VNSee](https://github.com/matteodelabre/vnsee) - VNC client for the reMarkable tablet allowing you to use the device as a second screen.
+
+
+## Custom Templates
+- [reMarkable-bujo](https://github.com/vonneudeck/remarkable-bujo) - "Bullet Journal" templates.
+- [reMarkable-gtd-templates](https://github.com/BartKeulen/remarkable-gtd-templates) - "Getting Things Done" templates.
+- [reMarkable-Templates](https://github.com/newtonhonk/reMarkable-Templates) - To Do templates with lines, checkboxes or text blocks.
+- [reMarkable_templates](https://github.com/steka/reMarkable_templates) - White lines/squares on gray background.
+- [reMarkabletemplates](https://github.com/equivocates/remarkabletemplates/) - Planner per 1 or 3 weeks.
+- [rM2Mods templates](https://github.com/DanielRunningen/rM2Mods/tree/main/assests/templates) - Collection of different templates. E.g., micro dots/grids, checklists, budgeting,  boxes.
