@@ -226,7 +226,15 @@ Take special care if you are using a reMarkable 2:
   ![Last commit](https://shields.io/github/last-commit/simonschllng/rm-sync)
   ![Issues](https://shields.io/github/issues/simonschllng/rm-sync)
   <!-- /shields -->
-- [reMarkable_syncthing](http://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable.
+- [reMarkable_syncthing](https://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable.
+  <!-- shields -->
+
+  ![Github stars](https://shields.io/github/stars/evidlo/remarkable_syncthing?style=social)
+  ![Languages](https://shields.io/github/languages/top/evidlo/remarkable_syncthing)
+  ![License](https://shields.io/github/license/evidlo/remarkable_syncthing)
+  ![Last commit](https://shields.io/github/last-commit/evidlo/remarkable_syncthing)
+  ![Issues](https://shields.io/github/issues/evidlo/remarkable_syncthing)
+  <!-- /shields -->
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
   <!-- shields -->
 
@@ -418,7 +426,15 @@ Take special care if you are using a reMarkable 2:
   ![Last commit](https://shields.io/github/last-commit/reHackable/scripts)
   ![Issues](https://shields.io/github/issues/reHackable/scripts)
   <!-- /shields -->
-- [reMarkable_entware](http://github.com/evidlo/remarkable_entware) - Package manager for reMarkable.  Install common Unix utilities through the command line.
+- [reMarkable_entware](https://github.com/evidlo/remarkable_entware) - Package manager for reMarkable.  Install common Unix utilities through the command line.
+  <!-- shields -->
+
+  ![Github stars](https://shields.io/github/stars/evidlo/remarkable_entware?style=social)
+  ![Languages](https://shields.io/github/languages/top/evidlo/remarkable_entware)
+  ![License](https://shields.io/github/license/evidlo/remarkable_entware)
+  ![Last commit](https://shields.io/github/last-commit/evidlo/remarkable_entware)
+  ![Issues](https://shields.io/github/issues/evidlo/remarkable_entware)
+  <!-- /shields -->
 - [reMarkable_keyboard](https://github.com/Evidlo/remarkable_keyboard) - Software to use rM as wireless keyboard/mouse.
   <!-- shields -->
 
