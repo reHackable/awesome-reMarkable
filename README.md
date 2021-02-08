@@ -74,15 +74,6 @@ Take special care if you are using a reMarkable 2:
   ![Last commit](https://shields.io/github/last-commit/ax3l/lines-are-rusty)
   ![Issues](https://shields.io/github/issues/ax3l/lines-are-rusty)
   <!-- /shields -->
-- [fc-rM](https://github.com/artagnon/FreelyCommute/tree/master/rM) - C++ Parser for the .rM v5 format.
-  <!-- shields -->
-
-  ![Github stars](https://shields.io/github/stars/artagnon/FreelyCommute?style=social)
-  ![Languages](https://shields.io/github/languages/top/artagnon/FreelyCommute)
-  ![License](https://shields.io/github/license/artagnon/FreelyCommute)
-  ![Last commit](https://shields.io/github/last-commit/artagnon/FreelyCommute)
-  ![Issues](https://shields.io/github/issues/artagnon/FreelyCommute)
-  <!-- /shields -->
 - [reMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API.
   <!-- shields -->
 
