@@ -18,8 +18,8 @@ Take special care if you are using a reMarkable 2:
 
 - [APIs](#apis)
 - [Applications](#applications)
-- - [Games](#games)
-- - [Launchers](#launchers)
+  - [Games](#games)
+  - [Launchers](#launchers)
 - [Cloud Tools](#cloud-tools)
 - [Device Tools](#device-tools)
 - [GUI Clients](#gui-clients)
