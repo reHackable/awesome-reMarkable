@@ -38,11 +38,12 @@ Take special care if you are using a reMarkable 2:
 - [reMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API.
 - [reMarkable-layers](https://github.com/bsdz/remarkable-layers) - Python API for reading & writing reMarkable Lines format. Supports very basic conversion of PDFs and SVGs to Lines format.
 - [reMarkable-typescript](https://github.com/Ogdentrod/reMarkable-typescript) - TypeScript API for reMarkable Cloud.
+- [Remarkable.jl](https://github.com/theogf/Remarkable.jl) - Julia API Interface to the Remarkable cloud.
 - [remarkdav](https://github.com/hansegucker/remarkdav) - A tool to sync PDF files from a WebDAV directory to the reMarkable Cloud.
 - [rMAPI](https://github.com/juruen/rmapi) - ReMarkable Cloud Go API.
 - [rmapy](https://github.com/subutux/rmapy) - ReMarkable Cloud Python API.
 - [rmfakecloud](https://github.com/ddvk/rmfakecloud) - Fake Cloud Sync, server implementation of the Cloud API.
-- [Remarkable.jl](https://github.com/theogf/Remarkable.jl) - Julia API Interface to the Remarkable cloud 
+- [rmrl](https://github.com/rschroll/rmrl) - The reMarkable Rendering Library for Python converts annotated documents to PDF files.
 
 ## Applications
 
