@@ -49,6 +49,7 @@ Take special care if you are using a reMarkable 2:
 - [darvin/plato](https://github.com/darvin/plato) [LinusCDE/plato](https://github.com/LinusCDE/plato) - Plato reader port. Supports pdfs, epubs, many other formats.
 - [reMarkable keywriter](https://github.com/dps/remarkable-keywriter) - A distraction free keyboard notes app.
 - [reMarkable wikipedia](https://github.com/dps/remarkable-wikipedia) - Offline wikipedia reader for reMarkable.
+- [Rebook](https://github.com/fsniper/ReBook) - The missing book store for reMarkable.
 
 ### Games
 
