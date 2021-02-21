@@ -7,11 +7,13 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 
 *Contributions are welcome as long as they follow the [guidelines](CONTRIBUTING.md).*
 
-## reMarkable 2 disclaimer
+## Disclaimer
 
-Take special care if you are using a reMarkable 2:
-- There is no tool for system recovery. If you lose ssh access you lose access to the device. Write down your password.
-- The screen on rm2 and rm1 are different. ~~No application drawing into rm2 screen works yet.~~ Check [remarkable2-framebuffer repo](https://github.com/ddvk/remarkable2-framebuffer) and [#14](https://github.com/ddvk/remarkable2-framebuffer/issues/14)
+No project here are is affiliated or endorsed by [reMarkable AS](https://github.com/remarkable). If you modify your device official support might refuse to help you. **Factory reset may brick your device**.
+
+Take special care if you are using a reMarkable 2.
+- System recovery require some hardware. Check [ddvk/remarkable2-recovery](https://github.com/ddvk/remarkable2-recovery)
+- The screen on rm2 and rm1 are different. Check [remarkable2-framebuffer repo](https://github.com/ddvk/remarkable2-framebuffer) and [#14](https://github.com/ddvk/remarkable2-framebuffer/issues/14)
 
 
 ## Contents
