@@ -17,8 +17,8 @@ This function may not do what you are expecting. While it resets all user data, 
 
 ### Take special care if you are using a reMarkable 2.
 
-- System recovery require some hardware. Check [ddvk/remarkable2-recovery](https://github.com/ddvk/remarkable2-recovery) for what to do in case you lose ssh access
-- The screen on rm2 and rm1 are different. Workarounds have been developed to interact with the rM2 framebuffer but some projects might not work on it. See [remarkable2-framebuffer repo](https://github.com/ddvk/remarkable2-framebuffer) and [#14](https://github.com/ddvk/remarkable2-framebuffer/issues/14)
+- System recovery require some hardware. Check [ddvk/remarkable2-recovery](https://github.com/ddvk/remarkable2-recovery) for what to do in case you lose ssh access.
+- The screen on rm2 and rm1 are different. Workarounds have been developed to interact with the rM2 framebuffer but some projects might not work on it. See [remarkable2-framebuffer repo](https://github.com/ddvk/remarkable2-framebuffer) and [#14](https://github.com/ddvk/remarkable2-framebuffer/issues/14).
 
 
 ## Contents
