@@ -9,11 +9,16 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 
 ## Disclaimer
 
-No project here are is affiliated or endorsed by [reMarkable AS](https://github.com/remarkable). If you modify your device official support might refuse to help you. **Factory reset may brick your device**.
+No project here is affiliated or endorsed by [reMarkable AS](https://github.com/remarkable). If you modify your device official support might refuse to help you. 
 
-Take special care if you are using a reMarkable 2.
-- System recovery require some hardware. Check [ddvk/remarkable2-recovery](https://github.com/ddvk/remarkable2-recovery)
-- The screen on rm2 and rm1 are different. Check [remarkable2-framebuffer repo](https://github.com/ddvk/remarkable2-framebuffer) and [#14](https://github.com/ddvk/remarkable2-framebuffer/issues/14)
+### Factory reset may brick your device
+
+This function may not do what you are expecting. While it resets all user data, it will not restore the device to the original factory condition. It will reset your SSH password and remove all SSH keys, which may make it impossible to connect to your device if it is malfunctioning.
+
+### Take special care if you are using a reMarkable 2.
+
+- System recovery require some hardware. Check [ddvk/remarkable2-recovery](https://github.com/ddvk/remarkable2-recovery) for what to do in case you lose ssh access
+- The screen on rm2 and rm1 are different. Workarounds have been developed to interact with the rM2 framebuffer but some projects might not work on it. See [remarkable2-framebuffer repo](https://github.com/ddvk/remarkable2-framebuffer) and [#14](https://github.com/ddvk/remarkable2-framebuffer/issues/14)
 
 
 ## Contents
