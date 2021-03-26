@@ -81,6 +81,7 @@ This function may not do what you are expecting. While it resets all user data, 
 - [CUPS Printing](https://ofosos.org/2018/10/22/printing-to-remarkable-cloud-from-cups/) - Script to print directly to reMarkable Cloud from CUPS using rMAPI.
 - [reCatchable](https://github.com/lapwat/reCatchable) - Turn websites into ebooks, upload them to reMarkable.
 - [reGitable](https://github.com/after-eight/regitable) - Backup your reMarkable with git and sync changes to a remote repository automatically.
+- [remarkable_simplenote](https://github.com/bgribble/remarkable_simplenote) - Sync simplenote notes to reMarkable (currently one-way)
 - [reMarkable-Sink](http://github.com/hmenzagh/reMarkable-Sink) - Turn a folder into a wormhole to your reMarkable.
 - [reMarkable_syncthing](http://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable.
 - [rM-sync](https://github.com/simonschllng/rm-sync) - Sync script for reMarkable paper tablet.
