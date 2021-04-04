@@ -161,3 +161,4 @@ This function may not do what you are expecting. While it resets all user data, 
 - [reMarkable_templates](https://github.com/steka/reMarkable_templates) - White lines/squares on gray background.
 - [reMarkabletemplates](https://github.com/equivocates/remarkabletemplates/) - Planner per 1 or 3 weeks.
 - [rM2Mods templates](https://github.com/DanielRunningen/rM2Mods/tree/main/assests/templates) - Collection of different templates. E.g., micro dots/grids, checklists, budgeting,  boxes.
+- [reMarkable-year-week-tasks-planner](https://github.com/rmDitch/reMarkable-year-week-tasks-planner) - Clickable Year-Week-Tasks PDF planner. 
