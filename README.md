@@ -1,4 +1,4 @@
-# Awesome reMarkable [![Discord](https://img.shields.io/discord/385916768696139794.svg?label=reMarkable&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/WB4DH7Juct)
+# Awesome reMarkable [![Discord](https://img.shields.io/discord/385916768696139794.svg?label=reMarkable&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/u3P9sDW)
 
 
 # [<img src="Awesome.png"></p>](https://github.com/sindresorhus/awesome)
