@@ -168,6 +168,7 @@ This function may not do what you are expecting. While it resets all user data, 
 
 ## Custom Templates
 - [reMarkable-bujo](https://github.com/vonneudeck/remarkable-bujo) - "Bullet Journal" templates.
+- [remarkable-engineering](https://gitlab.com/asciiphil/remarkable-engineering) - Engineering-style grid templates.
 - [reMarkable-gtd-templates](https://github.com/BartKeulen/remarkable-gtd-templates) - "Getting Things Done" templates.
 - [reMarkable-Templates](https://github.com/newtonhonk/reMarkable-Templates) - To Do templates with lines, checkboxes or text blocks.
 - [reMarkable_templates](https://github.com/steka/reMarkable_templates) - White lines/squares on gray background.
