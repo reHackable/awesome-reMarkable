@@ -116,6 +116,7 @@ This function may not do what you are expecting. While it resets all user data, 
 - [ReMy](https://github.com/bordaigorl/remy) - A GUI to browse, preview documents, export documents with custom settings, all via SSH (no cloud needed); works from local raw backups too.
 - [rMExplorer](https://github.com/bruot/pyrmexplorer/wiki) - GUI to browse, download/upload files and backup the tablet without using the cloud.
 - [rmUploader](https://github.com/lobre/rmuploader) - Simple web app to upload epub or pdf files to the reMarkable tablet via drag and drop.
+- [Slithin](https://github.com/furesoft/Slithin) - Free Management Application for Windows/Linux/MacOS
 
 ## Other
 
