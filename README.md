@@ -175,3 +175,6 @@ This function may not do what you are expecting. While it resets all user data, 
 - [reMarkable_templates](https://github.com/steka/reMarkable_templates) - White lines/squares on gray background.
 - [reMarkabletemplates](https://github.com/equivocates/remarkabletemplates/) - Planner per 1 or 3 weeks.
 - [rM2Mods templates](https://github.com/DanielRunningen/rM2Mods/tree/main/assests/templates) - Collection of different templates. E.g., micro dots/grids, checklists, budgeting,  boxes.
+- [reMarkable Template Builder](https://templarian.github.io/remarkable/) - Generate Isometric and Grid templates of all sizes
+- [Remarkable Grid Template Generator](https://xosh.org/remarkable-grid-template/) - Generate pixel perfect line grid and dotted grid templates
+- [NoTeTo](https://noteto.needleinthehay.de/) - Design templates by drag and drop components
