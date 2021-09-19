@@ -102,7 +102,6 @@ This function may not do what you are expecting. While it resets all user data, 
 - [sync_zotero_remarkable](https://github.com/danijoo/sync_zotero_remarkable) - Sync PDFs from Zotero to reMarkable.
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
 
-
 ## Device Tools
 - [ReCept](https://github.com/funkey/recept/) - Fix for the rM2 jagged line issue.
 - [rM-signature-patch](https://github.com/Barabazs/rM-signature-patch) - Simple script to remove that pesky advert at the bottom of a mail originating from a reMarkable.
