@@ -77,6 +77,7 @@ This function may not do what you are expecting. While it resets all user data, 
 ### Games
 
 - [chessMarkable](https://github.com/LinusCDE/chessmarkable) - Play chess against a bot or a friend.
+- [DOOMarkable](https://github.com/LinusCDE/doomarkable) - Play DOOM on the reMarkable 1.
 - [minesweeper](https://rmkit.dev/apps/minesweeper) - A mine detection game.
 - [recrossable](https://github.com/sandsmark/recrossable) - Crossword game with simplistic handwriting recognition and automatic generation of crosswords.
 - [retris](https://github.com/LinusCDE/retris) - Play a clone of the popular block stacking game with either buttons or swipe guestures.
