@@ -73,6 +73,7 @@ This function may not do what you are expecting. While it resets all user data, 
 - [reMarkable keywriter](https://github.com/dps/remarkable-keywriter) - A distraction free keyboard notes app.
 - [reMarkable wikipedia](https://github.com/dps/remarkable-wikipedia) - Offline wikipedia reader for reMarkable.
 - [whiteboard-hypercard](https://github.com/fenollp/reMarkable-tools) - Live collaboration, drawing, chat, whiteboarding.
+- [remarkaBot](https://github.com/Davide95/remarkaBot) - Fetch your documents from Telegram.
 
 ### Games
 
