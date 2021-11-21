@@ -174,6 +174,7 @@ This function may not do what you are expecting. While it resets all user data, 
 
 ## Custom Templates
 
+- [reCalendar](https://github.com/klimeryk/recalendar) - Highly customizable calendar optimized for reMarkable.
 - [reMarkable-bujo](https://github.com/vonneudeck/remarkable-bujo) - "Bullet Journal" templates.
 - [remarkable-engineering](https://gitlab.com/asciiphil/remarkable-engineering) - Engineering-style grid templates.
 - [reMarkable-gtd-templates](https://github.com/BartKeulen/remarkable-gtd-templates) - "Getting Things Done" templates.
