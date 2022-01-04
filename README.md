@@ -178,7 +178,8 @@ This function may not do what you are expecting. While it resets all user data, 
 
 ## Custom Templates
 
-- [reCalendar](https://github.com/klimeryk/recalendar) - Highly customizable calendar optimized for reMarkable.
+- [ReCalendar.me](https://recalendar.me/) - Highly customizable online calendar generator optimized for reMarkable.
+- [ReCalendar](https://github.com/klimeryk/recalendar) - Highly customizable calendar generator in PHP optimized for reMarkable.
 - [reMarkable-bujo](https://github.com/vonneudeck/remarkable-bujo) - "Bullet Journal" templates.
 - [remarkable-engineering](https://gitlab.com/asciiphil/remarkable-engineering) - Engineering-style grid templates.
 - [reMarkable-gtd-templates](https://github.com/BartKeulen/remarkable-gtd-templates) - "Getting Things Done" templates.
