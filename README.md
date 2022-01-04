@@ -72,6 +72,7 @@ This function may not do what you are expecting. While it resets all user data, 
 - [Rebook](https://github.com/fsniper/ReBook) - The missing book store for reMarkable.
 - [reMarkable keywriter](https://github.com/dps/remarkable-keywriter) - A distraction free keyboard notes app.
 - [reMarkable wikipedia](https://github.com/dps/remarkable-wikipedia) - Offline wikipedia reader for reMarkable.
+- [remarkaBot](https://github.com/Davide95/remarkaBot) - Fetch your documents from Telegram.
 - [whiteboard-hypercard](https://github.com/fenollp/reMarkable-tools) - Live collaboration, drawing, chat, whiteboarding.
 
 ### Games
