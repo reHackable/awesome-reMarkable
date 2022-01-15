@@ -24,12 +24,12 @@ This function may not do what you are expecting. While it resets all user data, 
 ## Contents
 
 - [APIs](#apis)
-- - [Cloud API](#cloud-api)
-- - [Lines Format](#lines-format)
-- - [Other APIs](#other-apis)
+  - [Cloud API](#cloud-api)
+  - [Lines Format](#lines-format)
+  - [Other APIs](#other-apis)
 - [Applications](#applications)
-- - [Games](#games)
-- - [Launchers](#launchers)
+  - [Games](#games)
+  - [Launchers](#launchers)
 - [Cloud Tools](#cloud-tools)
 - [Device Tools](#device-tools)
 - [GUI Clients](#gui-clients)
