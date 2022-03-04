@@ -106,6 +106,7 @@ This function may not do what you are expecting. While it resets all user data, 
 - [RMfuse](https://github.com/rschroll/rmfuse) - FUSE filesystem for the reMarkable Cloud.
 - [sync_zotero_remarkable](https://github.com/danijoo/sync_zotero_remarkable) - Sync PDFs from Zotero to reMarkable.
 - [url2epub](https://github.com/fishy/url2epub) - Telegram bot to generate ePub out of URL and send directly to reMarkable Cloud.
+- [matrix-remarkable-bot](https://github.com/abmantis/matrix-remarkable-bot) - Matrix chat bot to send PDFs and webpages (converted automatically to PDF) to the reMarkable Cloud.
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
 
 ## Device Tools
