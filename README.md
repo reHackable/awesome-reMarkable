@@ -111,7 +111,7 @@ This function may not do what you are expecting. While it resets all user data, 
 ## Device Tools
 - [ReCept](https://github.com/funkey/recept/) - Fix for the rM2 jagged line issue.
 - [rM-signature-patch](https://github.com/Barabazs/rM-signature-patch) - Simple script to remove that pesky advert at the bottom of a mail originating from a reMarkable.
-- [reMarvin](https://github.com/plan5/remarvin) - Profile and file encrytion manager (device only)
+- [remarvin](https://github.com/plan5/remarvin) - Profile and file encrytion manager that allows to manage notebooks for different users and to optionally protect the files with a password through gocryptfs-based encryption (device only).
 
 ## GUI Clients
 
