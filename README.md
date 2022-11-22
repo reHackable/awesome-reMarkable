@@ -11,7 +11,7 @@ The [reMarkable](https://www.remarkable.com) is a paper tablet for those who pre
 
 No project here is affiliated or endorsed by [reMarkable AS](https://github.com/remarkable). If you modify your device official support might refuse to help you. 
 
-### ⚠️ Write down your SSH password ⚠️
+### Write down your SSH password
 
 **WARNING!!**
 
