@@ -176,6 +176,7 @@ This function may not do what you are expecting. While it resets all user data, 
 - [rmTabletDriver](https://github.com/LinusCDE/rmTabletDriver) - Application that allows you to simulate/clone rM input on your computer.
 - [rmWacomToMouse](https://github.com/LinusCDE/rmWacomToMouse) - Use the wacom pen as a mouse to draw on your pc.
 - [rmWebUiTools](https://github.com/LinusCDE/rmWebUiTools) - View a file tree, see statistics and export/backup all files with some simple scripts utilizing the web ui.
+- [send_by_rmapi](https://github.com/LisaGlaser/send_by_rmapi) - A Calibre plugin to send books to your reMarkable, making use of rmapi.
 
 ## Screen Sharing/Streaming
 
