@@ -13,13 +13,13 @@ No project here is affiliated or endorsed by [reMarkable AS](https://github.com/
 
 ### Write down your SSH password
 
-**WARNING!!**
+**:warning: WARNING, READ THIS FIRST :warning:**
 
-**Make sure you have saved your SSH password somewhere secure** when installing Toltec and before installing any package. You can find the SSH password in your settings: `Settings > Help > Copyrights and licenses > General information (scroll down)`.
+**Make sure you have saved your SSH password somewhere secure, or you have setup a [SSH key](https://remarkablewiki.com/tech/ssh#passwordless_login_with_ssh_keys)**
 
-If you don't know how to do this, you can find the procedure on the (wiki)[https://remarkablewiki.com/tech/ssh#passwordless_login_with_ssh_keys].
+You can find the SSH password in your settings: `Settings > Help > Copyrights and licenses > General information (scroll down)`.
 
-Failure to do so could mean **a bricked and worthless device** and would require a hardware plug to recover from the bricked state. You have been warned!
+Failure to do so could mean a **bricked device** and would require a hardware plug to recover from the bricked state. You have been warned!
 
 ### Factory reset may brick your device
 
