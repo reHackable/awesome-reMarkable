@@ -128,7 +128,6 @@ This function may not do what you are expecting. While it resets all user data, 
 ## GUI Clients
 
 - [asTounding](https://github.com/jlarriba/astounding) -  A multiplatform GUI application for the reMarkable cloud, including Linux.
-- [RemaDroid](https://play.google.com/store/apps/details?id=org.remadroid) - An alternative Android app to upload documents, webpages or images to the reMarkable tablet.
 - [RemaPy](https://github.com/peerdavid/remapy) - GUI to browse, download/upload files and backup the tablet (also on Linux) using the cloud.
 - [reMarkable-assistant](https://github.com/richeymichael/remarkable-assistant) - Manage templates, splash screens, and settings on your reMarkable tablet.
 - [reMarkable Connection Utility (RCU)](http://www.davisr.me/projects/rcu/) - A cross-platform client for offline management of backups, screenshots, notebooks, templates, wallpaper, and third-party software.
@@ -170,7 +169,7 @@ This function may not do what you are expecting. While it resets all user data, 
 - [reMarkable-random-screens](https://github.com/Neurone/reMarkable) - Change your poweroff and suspend screens every 5 minutes with random images of your choice
 - [remarkable-shortcuts](https://github.com/martinetd/remarkable-shortcuts) - Add extra 'gestures' (currently double taps) for easier navigation.
 - [reMarkable-touchgestures](https://github.com/ddvk/remarkable-touchgestures) - Touch gestures (swipe/touch) for easy page navigation.
-- [reMarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
+- (Unmaintained) [reMarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
 - [reMarkablePocket](https://github.com/nov1n/RemarkablePocket) - Synchronize articles from read-later platform Pocket in epub format.
 - [reMarkableSync](https://github.com/jamesf91/reMarkableSync) - A Microsoft OneNote addin for importing notebooks from reMarkable as text or images.
 - [remarks](https://github.com/lucasrla/remarks) - Extract highlights, scribbles, and annotations from PDFs. Export to Markdown, PNG, and SVG.
