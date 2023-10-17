@@ -135,10 +135,11 @@ This function may not do what you are expecting. While it resets all user data, 
 - [reMarkable Connection Utility (RCU)](http://www.davisr.me/projects/rcu/) - A cross-platform client for offline management of backups, screenshots, notebooks, templates, wallpaper, and third-party software.
 - [reMarkable-hyutilities](https://github.com/moovida/remarkable-hyutilities) - A GUI written in java to backup your device, upload templates and modify splash screens.
 - [ReMy](https://github.com/bordaigorl/remy) - A GUI to browse, preview documents, export documents with custom settings, all via SSH (no cloud needed); works from local raw backups too.
+- [rM2 Template Helper](https://www.freeremarkabletools.com/) Windows tool for template management, and to download community templates. 
 - [rMExplorer](https://github.com/bruot/pyrmexplorer/wiki) - GUI to browse, download/upload files and backup the tablet without using the cloud.
 - [rmUploader](https://github.com/lobre/rmuploader) - Simple web app to upload epub or pdf files to the reMarkable tablet via drag and drop.
 - [rmWebUI](https://github.com/polletfa/rmWebUI) - Simple web interface to the reMarkable&reg; cloud.
-- [Slithin](https://github.com/furesoft/Slithin) - Free Management Application for Windows/Linux/MacOS
+- [Slithin](https://github.com/furesoft/Slithin) - Free Management Application for Windows/Linux/MacOS.
 
 ## Other
 - [Book-safe](https://github.com/dvdsk/Book-safe) - Hide books/documents between a given time period.
