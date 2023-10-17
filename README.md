@@ -122,6 +122,7 @@ This function may not do what you are expecting. While it resets all user data, 
 ## Device Tools
 - [ReCept](https://github.com/funkey/recept/) - Fix for the rM2 jagged line issue.
 - [rM-signature-patch](https://github.com/Barabazs/rM-signature-patch) - Simple script to remove that pesky advert at the bottom of a mail originating from a reMarkable.
+- [remarvin](https://github.com/plan5/remarvin) - Profile and file encrytion manager that allows to manage notebooks for different users and to optionally protect the files with a password through gocryptfs-based encryption (device only).
 - [splash.dat converter](https://gist.github.com/iTrooz/fddfcce03c1c44b04231be73d6e7982a) - Simple script to convert an image to the rM2 .dat format for a splash screen.
 - [WebInterface-Wifi](https://github.com/rM-self-serve/webinterface-wifi) - View the web interface if running, over wifi.
 
