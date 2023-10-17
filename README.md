@@ -214,6 +214,7 @@ This function may not do what you are expecting. While it resets all user data, 
 
 ### Template Builders
 
+- [Daily Journal / Figma template](https://www.figma.com/community/file/1035589688154217623) - A daily planner/journal and forkable general starter kit for building custom templates with Figma.
 - [NoTeTo](https://noteto.needleinthehay.de/) - Design templates by drag and drop components
 - [Remarkable Grid Template Generator](https://xosh.org/remarkable-grid-template/) - Generate pixel perfect line grid and dotted grid templates
 - [reMarkable Template Builder](https://templarian.github.io/remarkable/) - Generate Isometric and Grid templates of all sizes
