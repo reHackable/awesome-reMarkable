@@ -149,6 +149,7 @@ This function may not do what you are expecting. While it resets all user data, 
 - [paper2reMarkable](https://github.com/GjjvdBurg/paper2remarkable) - Download an academic paper or HTML article, crop it, and send it to the reMarkable with a single command.
 - [mail2rm](https://github.com/glatzor/mail2rm) - Mail PDF documents to your reMarkable cloud using your mail transport agent e.g. postfix.
 - [pdf2rmnotebook](https://github.com/JCN-9000/pdf2rmnotebook) - Creates a reMarkable Notebook from multiple PDF files.
+- [Parabola-rM](http://www.davisr.me/projects/parabola-rm/) - A Desktop GNU/Linux-libre replacement OS with fast partial refreshing and USB OTG.
 - [pocket2rm](https://github.com/glidergeek/pocket2rm) - Synchronize articles from read-later platform pocket in PDF and epub.
 - [remailable](https://github.com/j6k4m8/remailable) - Email PDFs directly to your reMarkable. ([Free publicly-hosted version available](https://remailable.getneutrality.org/)).
 - [reHackable/maxio](https://github.com/reHackable/maxio) - Companion daemon for the reMarkable paper tablet.
@@ -164,7 +165,7 @@ This function may not do what you are expecting. While it resets all user data, 
 - [reMarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem wrapper for the reMarkable tablet.
 - [reMarkable-random-screens](https://github.com/Neurone/reMarkable) - Change your poweroff and suspend screens every 5 minutes with random images of your choice
 - [reMarkable-touchgestures](https://github.com/ddvk/remarkable-touchgestures) - Touch gestures (swipe/touch) for easy page navigation.
-- [reMarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Repo Archived => Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
+- (Unmaintained) [reMarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
 - [reMarkablePocket](https://github.com/nov1n/RemarkablePocket) - Synchronize articles from read-later platform Pocket in epub format.
 - [reMarkableSync](https://github.com/jamesf91/reMarkableSync) - A Microsoft OneNote addin for importing notebooks from reMarkable as text or images.
 - [remarks](https://github.com/lucasrla/remarks) - Extract highlights, scribbles, and annotations from PDFs. Export to Markdown, PNG, and SVG.
