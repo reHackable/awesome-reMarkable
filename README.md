@@ -80,6 +80,7 @@ This function may not do what you are expecting. While it resets all user data, 
 - [KOReader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.
 - [darvin/plato](https://github.com/darvin/plato) [LinusCDE/plato](https://github.com/LinusCDE/plato) - Plato reader port. Supports pdfs, epubs, many other formats.
 - [Rebook](https://github.com/fsniper/ReBook) - The missing book store for reMarkable.
+- [reGenda](https://github.com/tenJirka/reGenda) - An agenda-based calendar for reMarkable.
 - [reMarkable keywriter](https://github.com/dps/remarkable-keywriter) - A distraction free keyboard notes app.
 - [reMarkable wikipedia](https://github.com/dps/remarkable-wikipedia) - Offline wikipedia reader for reMarkable.
 - [remarkaBot](https://github.com/Davide95/remarkaBot) - Fetch your documents from Telegram.
