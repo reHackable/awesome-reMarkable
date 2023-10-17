@@ -140,7 +140,7 @@ This function may not do what you are expecting. While it resets all user data, 
 - [Slithin](https://github.com/furesoft/Slithin) - Free Management Application for Windows/Linux/MacOS
 
 ## Other
-
+- [Book-safe](https://github.com/dvdsk/Book-safe) - Hide books/documents between a given time period.
 - [Calibre-Remarkable-Device-Driver-Plugin](https://github.com/naclander/Calibre-Remarkable-Device-Driver-Plugin) - A Calibre Plugin to Manage your Remarkable Books.
 - [Crazy Cow](https://github.com/machinelevel/sp425-crazy-cow) - Typewriter input from USB keyboard directly into reMarkable interface.
 - [Drawj2d](https://drawj2d.sourceforge.io/) - Create technical line drawings on an editable reMarkable notebook page. ([Guidance how to upload](https://sourceforge.net/p/drawj2d/wiki/reMarkable/) the page to the device using rMAPI.)
