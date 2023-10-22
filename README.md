@@ -217,6 +217,7 @@ This function may not do what you are expecting. While it resets all user data, 
 - [reMarkabletemplates](https://github.com/equivocates/remarkabletemplates/) - Planner per 1 or 3 weeks.
 - [rM2Mods templates](https://github.com/DanielRunningen/rM2Mods/tree/main/assests/templates) - Collection of different templates. E.g., micro dots/grids, checklists, budgeting,  boxes.
 - [reMarkable planning/journaling templates](https://github.com/msencer/remarkable_templates) - Collection of daily/weekly planning, journaling templates
+- [re-Planner](https://github.com/PepikVaio/reMarkable/tree/main/reMarkable_paid/re-Planner) - Fully customizable calendar for reMarkable.
 
 ### Template Builders
 
