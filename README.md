@@ -3,7 +3,7 @@
 
 # [<img src="Awesome.png"></p>](https://github.com/sindresorhus/awesome)
 
-The [reMarkable](https://www.remarkable.com) is a paper tablet for those who prefer writing on paper, rather than keyboards. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers.
+The [reMarkable](https://www.remarkable.com) is a paper tablet for those who prefer writing on paper. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers.
 
 *Contributions are welcome as long as they follow the [guidelines](CONTRIBUTING.md).*
 
@@ -15,20 +15,22 @@ No project here is affiliated or endorsed by [reMarkable AS](https://github.com/
 
 **:warning: WARNING, READ THIS FIRST :warning:**
 
-**Make sure you have saved your SSH password somewhere secure, or you have setup a [SSH key](https://remarkablewiki.com/tech/ssh#passwordless_login_with_ssh_keys)**
+**Make sure you have saved your SSH password somewhere secure, or you have setup a [SSH key](https://remarkable.guide/guide/access/ssh.html#creating-a-ssh-key)**
 
 You can find the SSH password in your settings: `Settings > Help > Copyrights and licenses > General information (scroll down)`.
 
-Failure to do so could mean a **bricked device** and would require a hardware plug to recover from the bricked state. You have been warned!
+Failure to do so could result in a **soft-bricked device** that requires [emergency recovery](https://remarkable.guide/tech/recovery.html).
 
 ### Factory reset may brick your device
 
 This function may not do what you are expecting. While it resets all user data, it will not restore the device to the original factory condition. It will reset your SSH password and remove all SSH keys, which may make it impossible to connect to your device if it is malfunctioning.
 
+See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for more information on how to properly factory reset your device.
+
 ### Take special care if you are using a reMarkable 2.
 
-- System recovery requires some hardware. Check [ddvk/remarkable2-recovery](https://github.com/ddvk/remarkable2-recovery) for what to do in case you lose ssh access.
-- The screen on rm2 and rm1 are different. Workarounds have been developed to interact with the rM2 framebuffer but some projects might not work on it. See [remarkable2-framebuffer repo](https://github.com/ddvk/remarkable2-framebuffer) and [#14](https://github.com/ddvk/remarkable2-framebuffer/issues/14).
+- System recovery requires some hardware. See https://remarkable.guide/tech/recovery.html#remarkable-2-recovery for more information.
+- The screen on rm2 and rm1 are different. Workarounds have been developed to interact with the rM2 framebuffer but some projects might not work on it. See [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) and [ddvk/remarkable2-framebuffer#14](https://github.com/ddvk/remarkable2-framebuffer/issues/14).
 
 
 ## Contents
