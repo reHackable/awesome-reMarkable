@@ -129,7 +129,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [Signature-rM](https://github.com/rM-self-serve/signature-rM) - Remove the signature from the bottom of emails sent from the device.
 - [splash.dat converter](https://gist.github.com/iTrooz/fddfcce03c1c44b04231be73d6e7982a) - Simple script to convert an image to the rM2 .dat format for a splash screen.
 - [WebInterface-OnBoot](https://github.com/rM-self-serve/webinterface-onboot) - Enable the web interface on boot.
-- [WebInterface-Upload-Button](https://github.com/rM-self-serve/webinterface-upload-butto) - Upload button for the web interface, alternative to drag and drop.
+- [WebInterface-Upload-Button](https://github.com/rM-self-serve/webinterface-upload-button) - Upload button for the web interface, alternative to drag and drop.
 - [WebInterface-Wifi](https://github.com/rM-self-serve/webinterface-wifi) - View the web interface if running, over wifi.
 
 ## GUI Clients
