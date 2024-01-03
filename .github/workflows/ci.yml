@@ -3,10 +3,10 @@ name: Verify if links are still reachable
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   verify-links:
