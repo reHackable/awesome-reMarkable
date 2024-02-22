@@ -217,7 +217,7 @@ This function may not do what you are expecting. While it resets all user data, 
 - [reMarkabletemplates](https://github.com/equivocates/remarkabletemplates/) - Planner per 1 or 3 weeks.
 - [rM2Mods templates](https://github.com/DanielRunningen/rM2Mods/tree/main/assests/templates) - Collection of different templates. E.g., micro dots/grids, checklists, budgeting,  boxes.
 - [reMarkable planning/journaling templates](https://github.com/msencer/remarkable_templates) - Collection of daily/weekly planning, journaling templates
-- [re-Planner](https://github.com/PepikVaio/reMarkable_re-Planner) - Pdf calendar optimized for reMarkable 1 and 2. You can pay for the fully customized version or use the free version.
+- [re-Planner](https://github.com/PepikVaio/reMarkable_re-Planner) - Watermarked PDF calendar for reMarkable 1 and 2. You can pay to remove the watermark, and to receive a customized version.
 
 ### Template Builders
 
