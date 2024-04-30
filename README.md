@@ -111,6 +111,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [reGitable](https://github.com/after-eight/regitable) - Backup your reMarkable with git and sync changes to a remote repository automatically.
 - [remarkable_simplenote](https://github.com/bgribble/remarkable_simplenote) - Sync simplenote notes to reMarkable (currently one-way)
 - [reMarkable-Sink](http://github.com/hmenzagh/reMarkable-Sink) - Turn a folder into a wormhole to your reMarkable.
+- [remarkable-substack](https://github.com/jwoglom/remarkable-substack/) - Syncs unread Substack posts to the reMarkable Cloud.
 - [reMarkable_syncthing](http://github.com/evidlo/remarkable_syncthing) - Syncthing on reMarkable.
 - [remarkable-zapier](https://github.com/artes-dev/remarkable-zapier) - Zapier Integration for reMarkable Cloud
 - [remarking](https://github.com/sabidib/remarking) - CLI tool to extract highlights from any document in the reMarkable cloud.
@@ -228,7 +229,6 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 ### Template Builders
 
-- [Daily Journal / Figma template](https://www.figma.com/community/file/1035589688154217623) - A daily planner/journal and forkable general starter kit for building custom templates with Figma.
 - [NoTeTo](https://noteto.needleinthehay.de/) - Design templates by drag and drop components
 - [ReCalendar.me](https://recalendar.me/) - Highly customizable online calendar generator optimized for reMarkable.
 - [Remarkable Grid Template Generator](https://xosh.org/remarkable-grid-template/) - Generate pixel perfect line grid and dotted grid templates
