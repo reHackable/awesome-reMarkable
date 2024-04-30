@@ -121,6 +121,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [url2epub](https://github.com/fishy/url2epub) - Telegram bot to generate ePub out of URL and send directly to reMarkable Cloud.
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
 - [Zotero2reMarkable Bridge](https://github.com/opal06/zotero2remarkable_bridge) - Sync files from Zotero to reMarkable and back based on tags; supports v2.7< highlights.
+- [remarkable-substack](https://github.com/jwoglom/remarkable-substack/) - Syncs unread Substack posts to the reMarkable Cloud.
 
 ## Device Tools
 - [ReCept](https://github.com/funkey/recept/) - Fix for the rM2 jagged line issue.
