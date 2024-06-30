@@ -22,4 +22,4 @@ jobs:
     - name: Checks
       run: |
         gem install awesome_bot
-        awesome_bot README.md --allow-ssl --allow-redirect
+        awesome_bot README.md --allow-ssl --allow-redirect --allow 403,429
