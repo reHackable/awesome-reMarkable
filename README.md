@@ -151,7 +151,6 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 ## Other
 - [Book-safe](https://github.com/dvdsk/Book-safe) - Hide books/documents between a given time period.
-- [Remarkably Planner Builder](https://remarkably-organized.pages.dev/)
 - (Unmaintained) [Calibre-Remarkable-Device-Driver-Plugin](https://github.com/naclander/Calibre-Remarkable-Device-Driver-Plugin) - A Calibre Plugin to Manage your Remarkable Books.
 - [Crazy Cow](https://github.com/machinelevel/sp425-crazy-cow) - Typewriter input from USB keyboard directly into reMarkable interface.
 - [Drawj2d](https://drawj2d.sourceforge.io/) - Create technical line drawings on an editable reMarkable notebook page. ([Guidance how to upload](https://sourceforge.net/p/drawj2d/wiki/reMarkable/) the page to the device using rMAPI.)
@@ -234,4 +233,5 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [NoTeTo](https://noteto.needleinthehay.de/) - Design templates by drag and drop components
 - [ReCalendar.me](https://recalendar.me/) - Highly customizable online calendar generator optimized for reMarkable.
 - [Remarkable Grid Template Generator](https://xosh.org/remarkable-grid-template/) - Generate pixel perfect line grid and dotted grid templates
+- [Remarkably Planner Builder](https://remarkably-organized.pages.dev/) - Generate hyperlinked pdf planners
 - [reMarkable Template Builder](https://templarian.github.io/remarkable/) - Generate Isometric and Grid templates of all sizes
