@@ -139,7 +139,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [asTounding](https://github.com/jlarriba/astounding) -  A multiplatform GUI application for the reMarkable cloud, including Linux.
 - [RemaPy](https://github.com/peerdavid/remapy) - GUI to browse, download/upload files and backup the tablet (also on Linux) using the cloud.
 - [reMarkable-assistant](https://github.com/richeymichael/remarkable-assistant) - Manage templates, splash screens, and settings on your reMarkable tablet.
-- [reMarkable Connection Utility (RCU)](http://www.davisr.me/projects/rcu/) - A cross-platform client for offline management of backups, screenshots, notebooks, templates, wallpaper, and third-party software.
+- [reMarkable Connection Utility (RCU)](http://www.davisr.me/projects/rcu/) - Cross-platform local/offline client for managing backups, screenshots, notebooks, templates, wallpaper, firmware, and third-party software. Typed text and snap highlight extraction. Virtual printer for native print-to-tablet.
 - [reMarkable-hyutilities](https://github.com/moovida/remarkable-hyutilities) - A GUI written in java to backup your device, upload templates and modify splash screens.
 - [reMarkable Remember](https://github.com/ds160/remarkable-remember) - A cross-platform client for offline management of backups, notebooks, templates and hand writing recognition via MyScript.
 - [ReMy](https://github.com/bordaigorl/remy) - A GUI to browse, preview documents, export documents with custom settings, all via SSH (no cloud needed); works from local raw backups too.
@@ -234,4 +234,5 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [NoTeTo](https://noteto.needleinthehay.de/) - Design templates by drag and drop components
 - [ReCalendar.me](https://recalendar.me/) - Highly customizable online calendar generator optimized for reMarkable.
 - [Remarkable Grid Template Generator](https://xosh.org/remarkable-grid-template/) - Generate pixel perfect line grid and dotted grid templates
+- [Remarkably Planner Builder](https://remarkably-organized.pages.dev/) - Generate hyperlinked pdf planners
 - [reMarkable Template Builder](https://templarian.github.io/remarkable/) - Generate Isometric and Grid templates of all sizes
