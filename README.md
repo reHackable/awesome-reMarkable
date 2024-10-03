@@ -110,6 +110,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [mendeley-rMsync](https://github.com/anilkyelam/mendeley-rMsync) - Script to sync PDFs (with annotations) from/to a [Mendeley](https://www.mendeley.com/) folder.
 - (Unmaintained) [reCatchable](https://github.com/lapwat/reCatchable) - Turn websites into ebooks, upload them to reMarkable.
 - [reGitable](https://github.com/after-eight/regitable) - Backup your reMarkable with git and sync changes to a remote repository automatically.
+- [reMarkable RSS](https://github.com/eksubin/Remarkable-RSS-Feed) - Read RSS feeds on reMarkable via google drive integration. Automated Script to convert RSS-feeds as PDFs and upload to google drive.
 - [remarkable_simplenote](https://github.com/bgribble/remarkable_simplenote) - Sync simplenote notes to reMarkable (currently one-way)
 - [reMarkable-Sink](http://github.com/hmenzagh/reMarkable-Sink) - Turn a folder into a wormhole to your reMarkable.
 - [remarkable-substack](https://github.com/jwoglom/remarkable-substack/) - Syncs unread Substack posts to the reMarkable Cloud.
@@ -123,7 +124,6 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [url2epub](https://github.com/fishy/url2epub) - Telegram bot to generate ePub out of URL and send directly to reMarkable Cloud.
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
 - [Zotero2reMarkable Bridge](https://github.com/opal06/zotero2remarkable_bridge) - Sync files from Zotero to reMarkable and back based on tags; supports v2.7< highlights.
-- [Remarkable RSS](https://github.com/eksubin/Remarkable-RSS-Feed) - Read RSS feeds on reMarkable via google drive integration. Automated Script to convert RSS-feeds as PDFs and upload to google drive.
 
 ## Device Tools
 - [paginator](https://github.com/aflusche/paginator) - Physical foot pedal to turn pages on the device with no hands (e.g. for playing sheet music).
