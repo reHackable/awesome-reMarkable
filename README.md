@@ -123,7 +123,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [url2epub](https://github.com/fishy/url2epub) - Telegram bot to generate ePub out of URL and send directly to reMarkable Cloud.
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
 - [Zotero2reMarkable Bridge](https://github.com/opal06/zotero2remarkable_bridge) - Sync files from Zotero to reMarkable and back based on tags; supports v2.7< highlights.
-- [Remarkable RSS](https://github.com/eksubin/Remarkable-RSS-Feed) - Read RSS feeds on Remarkable via google drive integration. Automated Script to convert RSS-feeds as PDFs and upload to google drive.
+- [Remarkable RSS](https://github.com/eksubin/Remarkable-RSS-Feed) - Read RSS feeds on reMarkable via google drive integration. Automated Script to convert RSS-feeds as PDFs and upload to google drive.
 
 ## Device Tools
 - [paginator](https://github.com/aflusche/paginator) - Physical foot pedal to turn pages on the device with no hands (e.g. for playing sheet music).
