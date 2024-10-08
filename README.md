@@ -59,7 +59,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [reMarkable-typescript](https://github.com/Ogdentrod/reMarkable-typescript) - TypeScript API for reMarkable Cloud.
 - [Remarkable.jl](https://github.com/theogf/Remarkable.jl) - Julia API Interface to the reMarkable cloud.
 - [remarkdav](https://github.com/hansegucker/remarkdav) - A tool to sync PDF files from a WebDAV directory to the reMarkable Cloud.
-- [rMAPI](https://github.com/juruen/rmapi) - ReMarkable Cloud Go API.
+- (Unmaintained) [rMAPI](https://github.com/juruen/rmapi) - ReMarkable Cloud Go API.
 - [rmapy](https://github.com/subutux/rmapy) - ReMarkable Cloud Python API.
 - [rmcl](https://github.com/rschroll/rmcl)- Asynchronous Python library for the reMarkable Cloud.
 - [rmfakecloud](https://github.com/ddvk/rmfakecloud) - Fake Cloud Sync, server implementation of the Cloud API.
