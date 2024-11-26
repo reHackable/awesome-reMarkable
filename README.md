@@ -88,6 +88,10 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - (Unmaintained) [remarkaBot](https://github.com/Davide95/remarkaBot) - Fetch your documents from Telegram.
 - [whiteboard-hypercard](https://github.com/fenollp/reMarkable-tools) - Live collaboration, drawing, chat, whiteboarding.
 
+### Browser extensions
+- [rePub](https://github.com/hafaio/repub) - unofficial browser extension that creates ePubs from websites and can either upload them to reMarkable cloud or save them locally, currently for Chrome only
+- [rePubfox](https://github.com/jrockwar/repubfox) - a hard fork of rePub for Firefox
+
 ### Games
 
 - [chessMarkable](https://github.com/LinusCDE/chessmarkable) - Play chess against a bot or a friend.
