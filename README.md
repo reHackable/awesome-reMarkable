@@ -165,6 +165,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [Book-safe](https://github.com/dvdsk/Book-safe) - Hide books/documents between a given time period.
 - [Crazy Cow](https://github.com/machinelevel/sp425-crazy-cow) - Typewriter input from USB keyboard directly into reMarkable interface.
 - [Drawj2d](https://drawj2d.sourceforge.io/) - Create technical line drawings on an editable reMarkable notebook page. ([Guidance how to upload](https://sourceforge.net/p/drawj2d/wiki/reMarkable/) the page to the device using rMAPI.)
+- [Epistolary](https://github.com/j6k4m8/epistolary) - Emails on the reMarkable. Read and respond to your email inbox in handwriting (auto-converts to text before sending).
 - [Funcky reMarkable Exporter](https://github.com/simonbaudart/Funcky.Remarkable.Exporter) - Export notes from a reMarkable Tablet to File System and External Services.
 - [Goosepaper](https://github.com/j6k4m8/goosepaper): Deliver prettily-formatted RSS feeds, news articles, Wikipedia articles-of-the-day, and more to your reMarkable tablet.
 - [instapaper-as-pdf-to-reMarkable](https://github.com/fabianmu/instapaper-as-pdf-to-remarkable) - Export Instapaper-Articles to PDF and send them to a connected rM tablet.
