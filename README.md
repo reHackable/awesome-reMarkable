@@ -203,6 +203,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rM-dl-annotated](https://github.com/jmptable/rm-dl-annotated) - Export annotated PDFs from reMarkable tablets.
 - [rm-pySAS](https://github.com/tenJirka/rm-pySAS) - Python wrapper for [simple](https://rmkit.dev/apps/sas).
 - [rm2anki](https://github.com/stelzch/rm2anki) - Convert reMarkable notebooks into an Anki card decks.
+- [rmathlab](https://github.com/Samdney/rmathlab) - A Linux toolset for the reMarkable 2 tablet, which enables math handwriting recognition and LaTeX generation over USB via Mathpix.
 - [rmirro](https://github.com/hersle/rmirro) - A script that synchronizes PDFs of documents between a Remarkable and a computer folder that mirrors its file structure without cloud access.
 - [RMPP Entware](https://github.com/hmenzagh/rmpp-entware) - Package manager for reMarkable Paper Pro.  Install okpg package manager.
 - [rMsync](https://github.com/lschwetlick/rMsync) - Synchronisation script with a local dedicated "library" folder.
@@ -210,7 +211,6 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rmWacomToMouse](https://github.com/LinusCDE/rmWacomToMouse) - Use the wacom pen as a mouse to draw on your pc.
 - [rmWebUiTools](https://github.com/LinusCDE/rmWebUiTools) - View a file tree, see statistics and export/backup all files with some simple scripts utilizing the web ui.
 - [send_by_rmapi](https://github.com/LisaGlaser/send_by_rmapi) - A Calibre plugin to send books to your reMarkable, making use of rmapi.
-- [rmathlab](https://github.com/Samdney/rmathlab) - A Linux toolset for the reMarkable 2 tablet, which enables math handwriting recognition and LaTeX generation over USB via Mathpix.
 
 ## Screen Sharing/Streaming
 
