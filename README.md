@@ -54,14 +54,15 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 ### Cloud API
 
 - (Unmaintained) [google-drive-remarkable-sync](https://github.com/bsdz/google-drive-remarkable-sync) - Apps Script API for reMarkable Cloud. Includes Synchronizer capability to automate mirroring of documents from Google Drive to reMarkable Cloud.
-- [jrmapi](https://github.com/jlarriba/jrmapi) - A Java API for the reMarkable Cloud.
+- (Likely Unmaintained) [jrmapi](https://github.com/jlarriba/jrmapi) - A Java API for the reMarkable Cloud.
 - [reMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) - Docs and implementation of the reMarkable file sync API.
-- [reMarkable-typescript](https://github.com/Ogdentrod/reMarkable-typescript) - TypeScript API for reMarkable Cloud.
+- (Unmaintained) [reMarkable-typescript](https://github.com/Ogdentrod/reMarkable-typescript) - TypeScript API for reMarkable Cloud.
 - [Remarkable.jl](https://github.com/theogf/Remarkable.jl) - Julia API Interface to the reMarkable cloud.
 - [remarkdav](https://github.com/hansegucker/remarkdav) - A tool to sync PDF files from a WebDAV directory to the reMarkable Cloud.
-- (Unmaintained) [rMAPI](https://github.com/juruen/rmapi) - ReMarkable Cloud Go API.
-- [rmapy](https://github.com/subutux/rmapy) - ReMarkable Cloud Python API.
-- [rmcl](https://github.com/rschroll/rmcl)- Asynchronous Python library for the reMarkable Cloud.
+- (Unmaintained) [jururen/rMAPI](https://github.com/juruen/rmapi) - ReMarkable Cloud Go API.
+    - [ddvk/rmapi](https://github.com/ddvk/rmapi) maintained fork of the Cloud Go API.
+- (Unmaintained) [rmapy](https://github.com/subutux/rmapy) - ReMarkable Cloud Python API.
+- (Likely Unmaintained) [rmcl](https://github.com/rschroll/rmcl)- Asynchronous Python library for the reMarkable Cloud.
 - [rmfakecloud](https://github.com/ddvk/rmfakecloud) - Fake Cloud Sync, server implementation of the Cloud API.
 
 ### Lines Format
