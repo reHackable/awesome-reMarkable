@@ -117,7 +117,6 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [reGitable](https://github.com/after-eight/regitable) - Backup your reMarkable with git and sync changes to a remote repository automatically.
 - [Remarcal](https://remarcal.com/) - Sync Google, Outlook, Apple, and more calendars to reMarkable.
 - [reMarkable RSS](https://github.com/eksubin/Remarkable-RSS-Feed) - Read RSS feeds on reMarkable via google drive integration. Automated Script to convert RSS-feeds as PDFs and upload to google drive.
-- [rss2remarkable](https://codeberg.org/akselmo/rss2remarkable) - Generates PDF of given RSS feeds and send is to your reMarkable cloud.
 - [remarkable_simplenote](https://github.com/bgribble/remarkable_simplenote) - Sync simplenote notes to reMarkable (currently one-way)
 - [reMarkable-Sink](http://github.com/hmenzagh/reMarkable-Sink) - Turn a folder into a wormhole to your reMarkable.
 - [remarkable-substack](https://github.com/jwoglom/remarkable-substack/) - Syncs unread Substack posts to the reMarkable Cloud.
@@ -127,6 +126,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rm-pdf-tools](https://github.com/skius/rm-pdf-tools) - Service that allows users to insert and delete pages from annotated PDFs on the device.
 - [rM-sync](https://github.com/simonschllng/rm-sync) - Sync script for reMarkable paper tablet.
 - [RMfuse](https://github.com/rschroll/rmfuse) - FUSE filesystem for the reMarkable Cloud.
+- [rss2remarkable](https://codeberg.org/akselmo/rss2remarkable) - Generates PDF of given RSS feeds and send is to your reMarkable cloud.
 - [sync_zotero_remarkable](https://github.com/danijoo/sync_zotero_remarkable) - Sync PDFs from Zotero to reMarkable.
 - [url2epub](https://github.com/fishy/url2epub) - Telegram bot to generate ePub out of URL and send directly to reMarkable Cloud.
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
