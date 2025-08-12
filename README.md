@@ -108,7 +108,8 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 
 ## Cloud Tools
-
+ 
+- [AgentNews-RemarkableRSSReader](https://github.com/eksubin/AgentNews-RemarkableRSSReader) - An AI agent for processing RSS news feeds and sending them to reMarkable via Google Drive API.
 - [Aviary](https://github.com/rmitchellscott/aviary) - A webhook-driven document uploader for reMarkable Cloud and rmfakecloud, featuring a static UI and a Go backend. Optional integration for email via AWS SES.
 - [CUPS Printing](https://github.com/ofosos/scratch/tree/master/remarkable-cups) - Script to print directly to reMarkable Cloud from CUPS using rMAPI.
 - [mendeley-rMsync](https://github.com/anilkyelam/mendeley-rMsync) - Script to sync PDFs (with annotations) from/to a [Mendeley](https://www.mendeley.com/) folder.
