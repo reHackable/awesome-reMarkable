@@ -44,10 +44,14 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
   - [Launchers](#launchers)
 - [Cloud Tools](#cloud-tools)
 - [Device Tools](#device-tools)
+- [Customization / UI Mods](#customization--ui-mods)
+  - [Modules / Tools](#modules--tools)
+  - [Extensions](#extensions)
 - [GUI Clients](#gui-clients)
 - [Other](#other)
 - [Screen Sharing/Streaming](#screen-sharingstreaming)
 - [Custom Templates](#custom-templates)
+
 
 ## APIs
 
@@ -135,6 +139,55 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [url2epub](https://github.com/fishy/url2epub) - Telegram bot to generate ePub out of URL and send directly to reMarkable Cloud.
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
 - [Zotero2reMarkable Bridge](https://github.com/opal06/zotero2remarkable_bridge) - Sync files from Zotero to reMarkable and back based on tags; supports v2.7< highlights.
+
+## Customization / UI Mods
+These mods require the use of [xovi](https://github.com/asivery/rm-xovi-extensions/blob/master/INSTALL.MD).
+
+### Modules / Tools
+- [asivery / rm-xovi-extensions](https://github.com/asivery/rm-xovi-extensions)
+  - `framebuffer-spy` - Exposes the address of the system framebuffer.
+  - `qt-command-executor` - Injects a Qt module to execute shell commands from QML.
+  - `qt-resource-rebuilder` - Injects into Qt and rebuilds resource databases on the fly, allowing QML/image replacement or addition.
+  - `random-suspend-screen` - Randomize your rM tablet's suspend screens.
+  - `webserver-remote` - Exposes the USB webserver to all interfaces, with a confirmation dialog for inbound connections.
+- [xovi-tripletap](https://github.com/rmitchellscott/xovi-tripletap) - Start xovi with a triple-press of the power button.
+
+### Extensions
+- [asivery](https://github.com/asivery)
+  - [AppLoad](https://github.com/asivery/rm-appload) - Enables windowed and fullscreen apps.
+  - [rM Hacks (QLMDiff)](https://github.com/asivery/rm-hacks-qmd) - Port of rmhacks for xovi.
+- [FouzR / xovi-extensions](https://github.com/FouzR/xovi-extensions)
+  - `favTagButton` - Adds quick access buttons for Favourites and Tagged files.
+  - `floating` - Adds a floating toolbar.
+  - `gestures` - Adds several useful gestures.
+  - `recentsTagged` - New menu showing tagged files, sorted by last modified.
+  - `selectionErase` - Enables deleting a stroke via selection tool.
+  - `selectionStuff` - Adds “select everything above the line.”
+- [ingatellent / xovi-qmd-extensions](https://github.com/ingatellent/xovi-qmd-extensions)
+  - `changeVerticalJump` - Increase page scroll distance.
+  - `delayStrokeRefresh` - Delay refresh after a colored stroke.
+  - `enableAllColors` - Enable full color palette (rM1/rM2).
+  - `enableExtraPenOnMove` - Adds an extra pen slot to the toolbar (rMPP(M) only).
+  - `enableShortcuts` - Add keyboard shortcuts for navigation.
+  - `enableShortcutsWithScrollOrChangePage` - Adds keyboard shortcuts when used with gestures.
+  - `feverLightSteps` - (rMPP(M) only) Change brightness slider behavior from 5 to 4 levels.
+  - `gestures` - Gestures for zoom, toolbar toggle, navigation, contrast filter.
+  - `hideDocumentClose` - Hide the close button in documents.
+  - `hidePageLabelsInFullscreen` - Hide page numbers at the bottom of the screen when the toolbar is hidden.
+  - `hideShowToolbar` - Hide the button for showing/hiding the toolbar.
+  - `miniLightSleep` - Show a line of text at the bottom right corner instead of the light sleep banner.
+- [StarNumber12046 / xovi-qmd-extensions](https://github.com/StarNumber12046/xovi-qmd-extensions)
+  - `autoNewPage` - Removes the “New Page” button when swiping past end.
+  - `clock` - Adds a sidebar clock.
+  - `hideDocumentClose` - Removes document close button.
+  - `hideShowToolbar` - Hides the “Show Toolbar” button.
+  - `miniLightSleep` - Replaces light sleep banner with “Zzz…” text.
+  - `pagesIndicator` - Displays page count in sidebar.
+  - `quickSettingsClock` - Adds a clock to the quick settings menu.
+  - `thickness` - Adds more pen thickness options.
+  - `uncompressCreate` - Expands “+” menu with separate folder/notebook/page options.
+
+
 
 ## Device Tools
 
@@ -227,6 +280,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 ## Screen Sharing/Streaming
 
+- [AppLoad-RMStream](https://github.com/asivery/appload-rmstream) - An [AppLoad](#extensions) application for streaming your reMarkable tablet's screen over HTTP.
 - [goMarkableStream](https://github.com/owulveryck/goMarkableStream) - Stream the screen of the reMarkable 2 (FW 2.5) easily (client/server in Go with no installation) along with the colors (with FW > 2.11.x).
 - [pipes and paper](https://gitlab.com/afandian/pipes-and-paper) - Stream pen strokes to browser canvas via websockets ([blog post](https://blog.afandian.com/2020/10/pipes-and-paper-remarkable/)). Uses Python and SSH, nothing to compile or install on the reMarkable device.
 - [pipes and paper enhanced](https://github.com/Pyrrhu5/pipes-and-paper-enhanced/tree/stable) - Share the pen strokes to a browser without installling anything on the ReMarkable (a revived fork of the previous link with pen colors and eraser support, responsive interface).
