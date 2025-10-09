@@ -169,7 +169,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [xovi-qmd-extensions (ingatellent)](https://github.com/ingatellent/xovi-qmd-extensions)
   - `changeVerticalJump` - Increase page scroll distance.
   - `delayStrokeRefresh` - Delay refresh after a colored stroke.
-  - `enableAllColors` - Enable full color palette (rM1/rM2).
+  - `enableAllColors` - Enable full color palette on greyscale devices.
   - `enableExtraPenOnMove` - Adds an extra pen slot to the toolbar (rMPP(M) only).
   - `enableShortcuts` - Add keyboard shortcuts for navigation.
   - `enableShortcutsWithScrollOrChangePage` - Adds keyboard shortcuts when used with gestures.
