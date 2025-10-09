@@ -165,7 +165,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
   - `gestures` - Adds several useful gestures.
   - `recentsTagged` - New menu showing tagged files, sorted by last modified.
   - `selectionErase` - Enables deleting a stroke via selection tool.
-  - `selectionStuff` - Adds “select everything above the line.”
+  - `selectionStuff` - Adds "select everything above the line."
 - [xovi-qmd-extensions (ingatellent)](https://github.com/ingatellent/xovi-qmd-extensions)
   - `changeVerticalJump` - Increase page scroll distance.
   - `delayStrokeRefresh` - Delay refresh after a colored stroke.
@@ -180,15 +180,15 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
   - `hideShowToolbar` - Hide the button for showing/hiding the toolbar.
   - `miniLightSleep` - Show a line of text at the bottom right corner instead of the light sleep banner.
 - [xovi-qmd-extensions (StarNumber12046)](https://github.com/StarNumber12046/xovi-qmd-extensions)
-  - `autoNewPage` - Removes the “New Page” button when swiping past end.
+  - `autoNewPage` - Removes the "New Page" button when swiping past end.
   - `clock` - Adds a sidebar clock.
   - `hideDocumentClose` - Removes document close button.
-  - `hideShowToolbar` - Hides the “Show Toolbar” button.
-  - `miniLightSleep` - Replaces light sleep banner with “Zzz…” text.
+  - `hideShowToolbar` - Hides the "Show Toolbar" button.
+  - `miniLightSleep` - Replaces light sleep banner with "Zzz…" text.
   - `pagesIndicator` - Displays page count in sidebar.
   - `quickSettingsClock` - Adds a clock to the quick settings menu.
   - `thickness` - Adds more pen thickness options.
-  - `uncompressCreate` - Expands “+” menu with separate folder/notebook/page options.
+  - `uncompressCreate` - Expands "+" menu with separate folder/notebook/page options.
 - [xovi-tripletap](https://github.com/rmitchellscott/xovi-tripletap) - Start xovi with a triple-press of the power button.
 
 
