@@ -45,8 +45,6 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [Cloud Tools](#cloud-tools)
 - [Device Tools](#device-tools)
 - [Customization / UI Mods](#customization--ui-mods)
-  - [Modules / Tools](#modules--tools)
-  - [Extensions](#extensions)
 - [GUI Clients](#gui-clients)
 - [Other](#other)
 - [Screen Sharing/Streaming](#screen-sharingstreaming)
@@ -141,29 +139,34 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [Zotero2reMarkable Bridge](https://github.com/opal06/zotero2remarkable_bridge) - Sync files from Zotero to reMarkable and back based on tags; supports v2.7< highlights.
 
 ## Customization / UI Mods
-These mods require the use of [xovi](https://github.com/asivery/rm-xovi-extensions/blob/master/INSTALL.MD).
 
-### Modules / Tools
-- [asivery / rm-xovi-extensions](https://github.com/asivery/rm-xovi-extensions)
+- [AppLoad](https://github.com/asivery/rm-appload) - Enables windowed and fullscreen apps.
+- [Book-safe](https://github.com/dvdsk/Book-safe) - Hide books/documents between a given time period.
+- [Crazy Cow](https://github.com/machinelevel/sp425-crazy-cow) - Typewriter input from USB keyboard directly into reMarkable interface.
+- [ReCept](https://github.com/funkey/recept/) - Fix for the rM2 jagged line issue.
+- [reLuminate](https://github.com/unreMarkableLabs/reLuminate) - Enable enhanced screen brightness levels on the reMarkable Paper Pro.
+- [RemarkableLamyEraser](https://github.com/isaacwisdom/RemarkableLamyEraser/) - Supports Lamy Al Star stylus button to erase or undo for reMarkable tablets.
+- [remarkable-shortcuts](https://github.com/martinetd/remarkable-shortcuts) - Add extra 'gestures' (currently double taps) for easier navigation.
+- [rM Hacks (QLMDiff)](https://github.com/asivery/rm-hacks-qmd) - Port of rmhacks for xovi.
+- [rM-signature-patch](https://github.com/Barabazs/rM-signature-patch) - Simple script to remove that pesky advert at the bottom of a mail originating from a reMarkable.
+- [rm-xovi-extensions](https://github.com/asivery/rm-xovi-extensions) - extensions for the rM tablets, which utilize the xovi framework
   - `framebuffer-spy` - Exposes the address of the system framebuffer.
   - `qt-command-executor` - Injects a Qt module to execute shell commands from QML.
   - `qt-resource-rebuilder` - Injects into Qt and rebuilds resource databases on the fly, allowing QML/image replacement or addition.
   - `random-suspend-screen` - Randomize your rM tablet's suspend screens.
   - `webserver-remote` - Exposes the USB webserver to all interfaces, with a confirmation dialog for inbound connections.
-- [xovi-tripletap](https://github.com/rmitchellscott/xovi-tripletap) - Start xovi with a triple-press of the power button.
-
-### Extensions
-- [asivery](https://github.com/asivery)
-  - [AppLoad](https://github.com/asivery/rm-appload) - Enables windowed and fullscreen apps.
-  - [rM Hacks (QLMDiff)](https://github.com/asivery/rm-hacks-qmd) - Port of rmhacks for xovi.
-- [FouzR / xovi-extensions](https://github.com/FouzR/xovi-extensions)
+- [Signature-rM](https://github.com/rM-self-serve/signature-rM) - Remove the signature from the bottom of emails sent from the device.
+- [WebInterface-OnBoot](https://github.com/rM-self-serve/webinterface-onboot) - Enable the web interface on boot.
+- [WebInterface-Upload-Button](https://github.com/rM-self-serve/webinterface-upload-button) - Upload button for the web interface, alternative to drag and drop.
+- [WebInterface-Wifi](https://github.com/rM-self-serve/webinterface-wifi) - View the web interface if running, over wifi.
+- [xovi-extensions (FouzR)](https://github.com/FouzR/xovi-extensions)
   - `favTagButton` - Adds quick access buttons for Favourites and Tagged files.
   - `floating` - Adds a floating toolbar.
   - `gestures` - Adds several useful gestures.
   - `recentsTagged` - New menu showing tagged files, sorted by last modified.
   - `selectionErase` - Enables deleting a stroke via selection tool.
   - `selectionStuff` - Adds “select everything above the line.”
-- [ingatellent / xovi-qmd-extensions](https://github.com/ingatellent/xovi-qmd-extensions)
+- [xovi-qmd-extensions (ingatellent)](https://github.com/ingatellent/xovi-qmd-extensions)
   - `changeVerticalJump` - Increase page scroll distance.
   - `delayStrokeRefresh` - Delay refresh after a colored stroke.
   - `enableAllColors` - Enable full color palette (rM1/rM2).
@@ -176,7 +179,7 @@ These mods require the use of [xovi](https://github.com/asivery/rm-xovi-extensio
   - `hidePageLabelsInFullscreen` - Hide page numbers at the bottom of the screen when the toolbar is hidden.
   - `hideShowToolbar` - Hide the button for showing/hiding the toolbar.
   - `miniLightSleep` - Show a line of text at the bottom right corner instead of the light sleep banner.
-- [StarNumber12046 / xovi-qmd-extensions](https://github.com/StarNumber12046/xovi-qmd-extensions)
+- [xovi-qmd-extensions (StarNumber12046)](https://github.com/StarNumber12046/xovi-qmd-extensions)
   - `autoNewPage` - Removes the “New Page” button when swiping past end.
   - `clock` - Adds a sidebar clock.
   - `hideDocumentClose` - Removes document close button.
@@ -186,23 +189,17 @@ These mods require the use of [xovi](https://github.com/asivery/rm-xovi-extensio
   - `quickSettingsClock` - Adds a clock to the quick settings menu.
   - `thickness` - Adds more pen thickness options.
   - `uncompressCreate` - Expands “+” menu with separate folder/notebook/page options.
+- [xovi-tripletap](https://github.com/rmitchellscott/xovi-tripletap) - Start xovi with a triple-press of the power button.
 
 
 
 ## Device Tools
 
 - [paginator](https://github.com/aflusche/paginator) - Physical foot pedal to turn pages on the device with no hands (e.g. for playing sheet music).
-- [ReCept](https://github.com/funkey/recept/) - Fix for the rM2 jagged line issue.
-- [reLuminate](https://github.com/unreMarkableLabs/reLuminate) - Enable enhanced screen brightness levels on the reMarkable Paper Pro.
 - [remarvin](https://github.com/plan5/remarvin) - Profile and file encrytion manager that allows to manage notebooks for different users and to optionally protect the files with a password through gocryptfs-based encryption (device only).
-- [rM-signature-patch](https://github.com/Barabazs/rM-signature-patch) - Simple script to remove that pesky advert at the bottom of a mail originating from a reMarkable.
 - [rm-version-switcher](https://github.com/rmitchellscott/rm-version-switcher) - An interactive CLI application for switching between installed reMarkable OS versions.
 - [rmtree](https://github.com/rmitchellscott/rmtree) - Unix-style tree command for the reMarkable's document filesystem.
-- [Signature-rM](https://github.com/rM-self-serve/signature-rM) - Remove the signature from the bottom of emails sent from the device.
 - [splash.dat converter](https://gist.github.com/iTrooz/fddfcce03c1c44b04231be73d6e7982a) - Simple script to convert an image to the rM2 .dat format for a splash screen.
-- [WebInterface-OnBoot](https://github.com/rM-self-serve/webinterface-onboot) - Enable the web interface on boot.
-- [WebInterface-Upload-Button](https://github.com/rM-self-serve/webinterface-upload-button) - Upload button for the web interface, alternative to drag and drop.
-- [WebInterface-Wifi](https://github.com/rM-self-serve/webinterface-wifi) - View the web interface if running, over wifi.
 
 ## GUI Clients
 
@@ -225,8 +222,6 @@ These mods require the use of [xovi](https://github.com/asivery/rm-xovi-extensio
 - (Unmaintained) [Calibre-Remarkable-Device-Driver-Plugin](https://github.com/naclander/Calibre-Remarkable-Device-Driver-Plugin) - A Calibre Plugin to Manage your Remarkable Books.
 - (Unmaintained) [reHackable/scripts](https://github.com/reHackable/scripts) - A set of bash scripts that may enhance your reMarkable experience.
 - (Unmaintained) [reMarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
-- [Book-safe](https://github.com/dvdsk/Book-safe) - Hide books/documents between a given time period.
-- [Crazy Cow](https://github.com/machinelevel/sp425-crazy-cow) - Typewriter input from USB keyboard directly into reMarkable interface.
 - [Drawj2d](https://drawj2d.sourceforge.io/) - Create technical line drawings on an editable reMarkable notebook page. ([Guidance how to upload](https://sourceforge.net/p/drawj2d/wiki/reMarkable/) the page to the device using rMAPI.)
 - [Ephemeris](https://github.com/rmitchellscott/ephemeris) - A Python-based tool that generates clean, daily schedules using ICS calendar data. Designed with e-ink tablets like reMarkable in mind.
 - [Epistolary](https://github.com/j6k4m8/epistolary) - Emails on the reMarkable. Read and respond to your email inbox in handwriting (auto-converts to text before sending).
@@ -250,7 +245,6 @@ These mods require the use of [xovi](https://github.com/asivery/rm-xovi-extensio
 - [reMarkable-crosswords](https://github.com/shapeshed/remarkable-crosswords) - Get crosswords freshly delivered to your Remarkable every morning.
 - [reMarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem wrapper for the reMarkable tablet.
 - [reMarkable-random-screens](https://github.com/Neurone/reMarkable) - Change your poweroff and suspend screens every 5 minutes with random images of your choice
-- [remarkable-shortcuts](https://github.com/martinetd/remarkable-shortcuts) - Add extra 'gestures' (currently double taps) for easier navigation.
 - [reMarkable-tablet-driver](https://github.com/FreeCap23/reMarkable-tablet-driver) - Use your reMarkable as a drawing tablet in Linux with pressure sensitivity and tilt. Works in Wayland.
 - [reMarkable-touchgestures](https://github.com/ddvk/remarkable-touchgestures) - Touch gestures (swipe/touch) for easy page navigation.
 - [reMarkable_entware](http://github.com/evidlo/remarkable_entware) - Package manager for reMarkable.  Install common Unix utilities through the command line.
@@ -259,7 +253,6 @@ These mods require the use of [xovi](https://github.com/asivery/rm-xovi-extensio
 - [remarkable_news](https://github.com/evidlo/remarkable_news) - Use daily news/comics/images as the suspend screen.
 - [reMarkable_pdflets](https://github.com/evidlo/remarkable_pdflets) - Dynamically updating PDFs.
 - [remarkable_printer](https://github.com/Evidlo/remarkable_printer) - Print from any device to reMarkable without browser extensions or reMarkable cloud.
-- [RemarkableLamyEraser](https://github.com/isaacwisdom/RemarkableLamyEraser/) - Supports Lamy Al Star stylus button to erase or undo for reMarkable tablets.
 - [reMarkablePocket](https://github.com/nov1n/RemarkablePocket) - Synchronize articles from read-later platform Pocket in epub format.
 - [reMarkableSync](https://github.com/jamesf91/reMarkableSync) - A Microsoft OneNote addin for importing notebooks from reMarkable as text or images.
 - [remarks](https://github.com/Scrybbling-together/remarks) - Extract highlights, scribbles, and annotations from PDFs. Export to Markdown, PNG, and SVG.
@@ -280,7 +273,7 @@ These mods require the use of [xovi](https://github.com/asivery/rm-xovi-extensio
 
 ## Screen Sharing/Streaming
 
-- [AppLoad-RMStream](https://github.com/asivery/appload-rmstream) - An [AppLoad](#extensions) application for streaming your reMarkable tablet's screen over HTTP.
+- [AppLoad-RMStream](https://github.com/asivery/appload-rmstream) - An AppLoad application for streaming your reMarkable tablet's screen over HTTP.
 - [goMarkableStream](https://github.com/owulveryck/goMarkableStream) - Stream the screen of the reMarkable 2 (FW 2.5) easily (client/server in Go with no installation) along with the colors (with FW > 2.11.x).
 - [pipes and paper](https://gitlab.com/afandian/pipes-and-paper) - Stream pen strokes to browser canvas via websockets ([blog post](https://blog.afandian.com/2020/10/pipes-and-paper-remarkable/)). Uses Python and SSH, nothing to compile or install on the reMarkable device.
 - [pipes and paper enhanced](https://github.com/Pyrrhu5/pipes-and-paper-enhanced/tree/stable) - Share the pen strokes to a browser without installling anything on the ReMarkable (a revived fork of the previous link with pen colors and eraser support, responsive interface).
