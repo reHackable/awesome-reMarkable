@@ -170,7 +170,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
   - `changeVerticalJump` - Increase page scroll distance.
   - `delayStrokeRefresh` - Delay refresh after a colored stroke.
   - `enableAllColors` - Enable full color palette on greyscale devices.
-  - `enableExtraPenOnMove` - Adds an extra pen slot to the toolbar (rMPP(M) only).
+  - `enableExtraPenOnMove` - Adds an extra pen slot to the toolbar
   - `enableShortcuts` - Add keyboard shortcuts for navigation.
   - `enableShortcutsWithScrollOrChangePage` - Adds keyboard shortcuts when used with gestures.
   - `feverLightSteps` - Change brightness slider behavior from 5 to 4 levels.
