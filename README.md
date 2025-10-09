@@ -149,7 +149,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [remarkable-shortcuts](https://github.com/martinetd/remarkable-shortcuts) - Add extra 'gestures' (currently double taps) for easier navigation.
 - [rM Hacks (QLMDiff)](https://github.com/asivery/rm-hacks-qmd) - Port of rmhacks for xovi.
 - [rM-signature-patch](https://github.com/Barabazs/rM-signature-patch) - Simple script to remove that pesky advert at the bottom of a mail originating from a reMarkable.
-- [rm-xovi-extensions](https://github.com/asivery/rm-xovi-extensions) - extensions for the rM tablets, which utilize the xovi framework
+- [rm-xovi-extensions](https://github.com/asivery/rm-xovi-extensions) - extensions for the reMarkable tablets, which utilize the xovi framework
   - `framebuffer-spy` - Exposes the address of the system framebuffer.
   - `qt-command-executor` - Injects a Qt module to execute shell commands from QML.
   - `qt-resource-rebuilder` - Injects into Qt and rebuilds resource databases on the fly, allowing QML/image replacement or addition.
