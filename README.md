@@ -153,7 +153,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
   - `framebuffer-spy` - Exposes the address of the system framebuffer.
   - `qt-command-executor` - Injects a Qt module to execute shell commands from QML.
   - `qt-resource-rebuilder` - Injects into Qt and rebuilds resource databases on the fly, allowing QML/image replacement or addition.
-  - `random-suspend-screen` - Randomize your rM tablet's suspend screens.
+  - `random-suspend-screen` - Randomize your reMarkable tablet's suspend screens.
   - `webserver-remote` - Exposes the USB webserver to all interfaces, with a confirmation dialog for inbound connections.
 - [Signature-rM](https://github.com/rM-self-serve/signature-rM) - Remove the signature from the bottom of emails sent from the device.
 - [WebInterface-OnBoot](https://github.com/rM-self-serve/webinterface-onboot) - Enable the web interface on boot.
