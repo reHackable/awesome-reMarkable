@@ -140,7 +140,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 ## Customization / UI Mods
 
-- [AppLoad](https://github.com/asivery/rm-appload) - Enables windowed and fullscreen apps.
+- [AppLoad](https://github.com/asivery/rm-appload) - Enables windowed and fullscreen apps inside the reMarkable interface.
 - [Book-safe](https://github.com/dvdsk/Book-safe) - Hide books/documents between a given time period.
 - [Crazy Cow](https://github.com/machinelevel/sp425-crazy-cow) - Typewriter input from USB keyboard directly into reMarkable interface.
 - [ReCept](https://github.com/funkey/recept/) - Fix for the rM2 jagged line issue.
