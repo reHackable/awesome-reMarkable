@@ -173,7 +173,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
   - `enableExtraPenOnMove` - Adds an extra pen slot to the toolbar (rMPP(M) only).
   - `enableShortcuts` - Add keyboard shortcuts for navigation.
   - `enableShortcutsWithScrollOrChangePage` - Adds keyboard shortcuts when used with gestures.
-  - `feverLightSteps` - (rMPP(M) only) Change brightness slider behavior from 5 to 4 levels.
+  - `feverLightSteps` - Change brightness slider behavior from 5 to 4 levels.
   - `gestures` - Gestures for zoom, toolbar toggle, navigation, contrast filter.
   - `hideDocumentClose` - Hide the close button in documents.
   - `hidePageLabelsInFullscreen` - Hide page numbers at the bottom of the screen when the toolbar is hidden.
