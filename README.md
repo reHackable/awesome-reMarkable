@@ -43,13 +43,12 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
   - [Games](#games)
   - [Launchers](#launchers)
 - [Cloud Tools](#cloud-tools)
+- [Custom Templates](#custom-templates)
 - [Device Tools](#device-tools)
-- [Customization / UI Mods](#customization--ui-mods)
 - [GUI Clients](#gui-clients)
+- [Interface Customization](#interface-customization)
 - [Other](#other)
 - [Screen Sharing/Streaming](#screen-sharingstreaming)
-- [Custom Templates](#custom-templates)
-
 
 ## APIs
 
@@ -138,7 +137,54 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
 - [Zotero2reMarkable Bridge](https://github.com/opal06/zotero2remarkable_bridge) - Sync files from Zotero to reMarkable and back based on tags; supports v2.7< highlights.
 
-## Customization / UI Mods
+## Custom Templates
+
+- [blank_slate_pdf](https://github.com/sowcow/blank_slate_pdf) - Flexible PDFs for nested lists or experiments with no predefined template, separate simple calendar, customization using ruby code.
+- [latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - PDF planner designed for e-ink devices.
+- [ReCalendar](https://github.com/klimeryk/recalendar) - Highly customizable calendar generator in PHP optimized for reMarkable.
+- [reMarkable-bujo](https://github.com/vonneudeck/remarkable-bujo) - "Bullet Journal" templates.
+- [remarkable-engineering](https://gitlab.com/asciiphil/remarkable-engineering) - Engineering-style grid templates.
+- [reMarkable-gtd-templates](https://github.com/BartKeulen/remarkable-gtd-templates) - "Getting Things Done" templates.
+- [reMarkable_templates](https://github.com/steka/reMarkable_templates) - White lines/squares on gray background.
+- [reMarkabletemplates](https://github.com/equivocates/remarkabletemplates/) - Planner per 1 or 3 weeks.
+- [rM2Mods templates](https://github.com/DanielRunningen/rM2Mods/tree/main/assests/templates) - Collection of different templates. E.g., micro dots/grids, checklists, budgeting,  boxes.
+- [reMarkable planning/journaling templates](https://github.com/msencer/remarkable_templates) - Collection of daily/weekly planning, journaling templates
+- [re-Planner](https://github.com/PepikVaio/reMarkable_re-Planner) - Watermarked PDF calendar for reMarkable 1 and 2. You can pay to remove the watermark, and to receive a customized version.
+
+### Template Builders
+
+- [Daily Journal / Wardley Maps / Figma template](https://www.figma.com/community/file/1389237140795352688) - A daily planner/journal, Wardley Map, and forkable general starter kit for building custom templates with Figma.
+- [NoTeTo](https://noteto.needleinthehay.de/) - Design templates by drag and drop components
+- [ReCalendar.me](https://recalendar.me/) - Highly customizable online calendar generator optimized for reMarkable.
+- [Remarkable Grid Template Generator](https://xosh.org/remarkable-grid-template/) - Generate pixel perfect line grid and dotted grid templates
+- [Remarkably Planner Builder](https://remarkably-organized.pages.dev/) - Generate hyperlinked pdf planners
+- [reMarkable Template Builder](https://templarian.github.io/remarkable/) - Generate Isometric and Grid templates of all sizes
+
+## Device Tools
+
+- [paginator](https://github.com/aflusche/paginator) - Physical foot pedal to turn pages on the device with no hands (e.g. for playing sheet music).
+- [remarvin](https://github.com/plan5/remarvin) - Profile and file encrytion manager that allows to manage notebooks for different users and to optionally protect the files with a password through gocryptfs-based encryption (device only).
+- [rm-version-switcher](https://github.com/rmitchellscott/rm-version-switcher) - An interactive CLI application for switching between installed reMarkable OS versions.
+- [rmtree](https://github.com/rmitchellscott/rmtree) - Unix-style tree command for the reMarkable's document filesystem.
+- [splash.dat converter](https://gist.github.com/iTrooz/fddfcce03c1c44b04231be73d6e7982a) - Simple script to convert an image to the rM2 .dat format for a splash screen.
+
+## GUI Clients
+
+- [asTounding](https://github.com/jlarriba/astounding) -  A multiplatform GUI application for the reMarkable cloud, including Linux.
+- [RemaPy](https://github.com/peerdavid/remapy) - GUI to browse, download/upload files and backup the tablet (also on Linux) using the cloud.
+- [reMarkable Connection Utility (RCU)](http://www.davisr.me/projects/rcu/) - Cross-platform local/offline client for managing backups, screenshots, notebooks, templates, wallpaper, firmware, and third-party software. Typed text and snap highlight extraction. Virtual printer for native print-to-tablet.
+- [reMarkable Remember](https://github.com/ds160/remarkable-remember) - A cross-platform client for offline management of backups, notebooks, templates and hand writing recognition via MyScript.
+- [reMarkable-assistant](https://github.com/richeymichael/remarkable-assistant) - Manage templates, splash screens, and settings on your reMarkable tablet.
+- [reMarkable-hyutilities](https://github.com/moovida/remarkable-hyutilities) - A GUI written in java to backup your device, upload templates and modify splash screens.
+- [ReMy](https://github.com/bordaigorl/remy) - A GUI to browse, preview documents, export documents with custom settings, all via SSH (no cloud needed); works from local raw backups too.
+- [rm-exporter](https://github.com/chopikus/rm-exporter) - Exports any combination of folders and large notes locally, supports Windows/MacOS/Linux.
+- [rM2 Template Helper](https://www.freeremarkabletools.com/) Windows tool for template management, and to download community templates. 
+- [rMExplorer](https://github.com/bruot/pyrmexplorer/wiki) - GUI to browse, download/upload files and backup the tablet without using the cloud.
+- [rmUploader](https://github.com/lobre/rmuploader) - Simple web app to upload epub or pdf files to the reMarkable tablet via drag and drop.
+- [rmWebUI](https://github.com/polletfa/rmWebUI) - Simple web interface to the reMarkable&reg; cloud.
+- (Unmaintained) [Slithin](https://github.com/furesoft/Slithin) - Free Management Application for Windows/Linux/MacOS.
+
+## Interface Customization
 
 - [AppLoad](https://github.com/asivery/rm-appload) - Enables windowed and fullscreen apps inside the reMarkable interface.
 - [Book-safe](https://github.com/dvdsk/Book-safe) - Hide books/documents between a given time period.
@@ -147,7 +193,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [reLuminate](https://github.com/unreMarkableLabs/reLuminate) - Enable enhanced screen brightness levels on the reMarkable Paper Pro.
 - [RemarkableLamyEraser](https://github.com/isaacwisdom/RemarkableLamyEraser/) - Supports Lamy Al Star stylus button to erase or undo for reMarkable tablets.
 - [remarkable-shortcuts](https://github.com/martinetd/remarkable-shortcuts) - Add extra 'gestures' (currently double taps) for easier navigation.
-- [rM Hacks](https://github.com/mb1986/rm-hacks) - Small improvements and tweaks for rM devices
+- [rM Hacks](https://github.com/mb1986/rm-hacks) - Small improvements and tweaks for rM devices.
 - [rM Hacks (QLMDiff)](https://github.com/asivery/rm-hacks-qmd) - Port of rmhacks for xovi.
 - [rM-signature-patch](https://github.com/Barabazs/rM-signature-patch) - Simple script to remove that pesky advert at the bottom of a mail originating from a reMarkable.
 - [rm-xovi-extensions](https://github.com/asivery/rm-xovi-extensions) - extensions for the reMarkable tablets, which utilize the xovi framework
@@ -191,32 +237,6 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
   - `thickness` - Adds more pen thickness options.
   - `uncompressCreate` - Expands "+" menu with separate folder/notebook/page options.
 - [xovi-tripletap](https://github.com/rmitchellscott/xovi-tripletap) - Start xovi with a triple-press of the power button.
-
-
-
-## Device Tools
-
-- [paginator](https://github.com/aflusche/paginator) - Physical foot pedal to turn pages on the device with no hands (e.g. for playing sheet music).
-- [remarvin](https://github.com/plan5/remarvin) - Profile and file encrytion manager that allows to manage notebooks for different users and to optionally protect the files with a password through gocryptfs-based encryption (device only).
-- [rm-version-switcher](https://github.com/rmitchellscott/rm-version-switcher) - An interactive CLI application for switching between installed reMarkable OS versions.
-- [rmtree](https://github.com/rmitchellscott/rmtree) - Unix-style tree command for the reMarkable's document filesystem.
-- [splash.dat converter](https://gist.github.com/iTrooz/fddfcce03c1c44b04231be73d6e7982a) - Simple script to convert an image to the rM2 .dat format for a splash screen.
-
-## GUI Clients
-
-- [asTounding](https://github.com/jlarriba/astounding) -  A multiplatform GUI application for the reMarkable cloud, including Linux.
-- [RemaPy](https://github.com/peerdavid/remapy) - GUI to browse, download/upload files and backup the tablet (also on Linux) using the cloud.
-- [reMarkable Connection Utility (RCU)](http://www.davisr.me/projects/rcu/) - Cross-platform local/offline client for managing backups, screenshots, notebooks, templates, wallpaper, firmware, and third-party software. Typed text and snap highlight extraction. Virtual printer for native print-to-tablet.
-- [reMarkable Remember](https://github.com/ds160/remarkable-remember) - A cross-platform client for offline management of backups, notebooks, templates and hand writing recognition via MyScript.
-- [reMarkable-assistant](https://github.com/richeymichael/remarkable-assistant) - Manage templates, splash screens, and settings on your reMarkable tablet.
-- [reMarkable-hyutilities](https://github.com/moovida/remarkable-hyutilities) - A GUI written in java to backup your device, upload templates and modify splash screens.
-- [ReMy](https://github.com/bordaigorl/remy) - A GUI to browse, preview documents, export documents with custom settings, all via SSH (no cloud needed); works from local raw backups too.
-- [rm-exporter](https://github.com/chopikus/rm-exporter) - Exports any combination of folders and large notes locally, supports Windows/MacOS/Linux.
-- [rM2 Template Helper](https://www.freeremarkabletools.com/) Windows tool for template management, and to download community templates. 
-- [rMExplorer](https://github.com/bruot/pyrmexplorer/wiki) - GUI to browse, download/upload files and backup the tablet without using the cloud.
-- [rmUploader](https://github.com/lobre/rmuploader) - Simple web app to upload epub or pdf files to the reMarkable tablet via drag and drop.
-- [rmWebUI](https://github.com/polletfa/rmWebUI) - Simple web interface to the reMarkable&reg; cloud.
-- (Unmaintained) [Slithin](https://github.com/furesoft/Slithin) - Free Management Application for Windows/Linux/MacOS.
 
 ## Other
 
@@ -284,26 +304,3 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rM-vnc-server](https://github.com/peter-sa/rM-vnc-server) - A fast & efficient damage-tracking (sending only updated regions) VNC server for streaming the reMarkable's screen.
 - [srvfb](https://github.com/merovius/srvfb) - Alternative screen-streaming software. Written in Go.
 - [VNSee](https://github.com/matteodelabre/vnsee) - VNC client for the reMarkable tablet allowing you to use the device as a second screen.
-
-## Custom Templates
-
-- [blank_slate_pdf](https://github.com/sowcow/blank_slate_pdf) - Flexible PDFs for nested lists or experiments with no predefined template, separate simple calendar, customization using ruby code.
-- [latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - PDF planner designed for e-ink devices.
-- [ReCalendar](https://github.com/klimeryk/recalendar) - Highly customizable calendar generator in PHP optimized for reMarkable.
-- [reMarkable-bujo](https://github.com/vonneudeck/remarkable-bujo) - "Bullet Journal" templates.
-- [remarkable-engineering](https://gitlab.com/asciiphil/remarkable-engineering) - Engineering-style grid templates.
-- [reMarkable-gtd-templates](https://github.com/BartKeulen/remarkable-gtd-templates) - "Getting Things Done" templates.
-- [reMarkable_templates](https://github.com/steka/reMarkable_templates) - White lines/squares on gray background.
-- [reMarkabletemplates](https://github.com/equivocates/remarkabletemplates/) - Planner per 1 or 3 weeks.
-- [rM2Mods templates](https://github.com/DanielRunningen/rM2Mods/tree/main/assests/templates) - Collection of different templates. E.g., micro dots/grids, checklists, budgeting,  boxes.
-- [reMarkable planning/journaling templates](https://github.com/msencer/remarkable_templates) - Collection of daily/weekly planning, journaling templates
-- [re-Planner](https://github.com/PepikVaio/reMarkable_re-Planner) - Watermarked PDF calendar for reMarkable 1 and 2. You can pay to remove the watermark, and to receive a customized version.
-
-### Template Builders
-
-- [Daily Journal / Wardley Maps / Figma template](https://www.figma.com/community/file/1389237140795352688) - A daily planner/journal, Wardley Map, and forkable general starter kit for building custom templates with Figma.
-- [NoTeTo](https://noteto.needleinthehay.de/) - Design templates by drag and drop components
-- [ReCalendar.me](https://recalendar.me/) - Highly customizable online calendar generator optimized for reMarkable.
-- [Remarkable Grid Template Generator](https://xosh.org/remarkable-grid-template/) - Generate pixel perfect line grid and dotted grid templates
-- [Remarkably Planner Builder](https://remarkably-organized.pages.dev/) - Generate hyperlinked pdf planners
-- [reMarkable Template Builder](https://templarian.github.io/remarkable/) - Generate Isometric and Grid templates of all sizes
