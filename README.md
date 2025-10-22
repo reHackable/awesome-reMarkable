@@ -226,6 +226,19 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
   - `hidePageLabelsInFullscreen` - Hide page numbers at the bottom of the screen when the toolbar is hidden.
   - `hideShowToolbar` - Hide the button for showing/hiding the toolbar.
   - `miniLightSleep` - Show a line of text at the bottom right corner instead of the light sleep banner.
+- [xovi-qmd-extensions (NohamR)](https://github.com/NohamR/xovi-qmd-extensions)
+  - `clock` - Adds a live clock to the library sidebar; tap the entry to toggle seconds display.
+  - `convertToText_remover` - Removes the Convert to text option from selection menus and the toolbar.
+  - `favoriteButton` - Restores a Favorite action in the document list header for faster pinning.
+  - `forceSync` - Adds a cloud button in Quick Settings that forces a library sync when tapped.
+  - `hideDocumentClose` - Hides the close button in the document toolbar to prevent accidental exits.
+  - `quickSettingsClock` - Injects a tappable clock into the Quick Settings header; tap to toggle between minute and second.
+  - `tagButton` - Puts a Tag action next to other list controls to open the tag editor directly.
+  - `uncompressDock` - Replaces the condensed More menu in the new document dock with dedicated buttons for notebook, folder, and quick sheet creation.
+- [xovi-qmd-extensions (rmitchellscott)](https://github.com/rmitchellscott/xovi-qmd-extensions)
+  - `hideZoomIndicator` - Auto-hide zoom indicator after 4 seconds.
+  - `miniLightSleep` - Replaces the light sleep banner with text saying "Sleeping" with a white background at the top right of the screen.
+  - `unlockMethodsContent` - Bypass subscription check for using on-device Methods templates and documents.
 - [xovi-qmd-extensions (StarNumber12046)](https://github.com/StarNumber12046/xovi-qmd-extensions)
   - `autoNewPage` - Removes the "New Page" button when swiping past end.
   - `clock` - Adds a sidebar clock.
