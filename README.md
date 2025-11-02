@@ -304,6 +304,8 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rmWacomToMouse](https://github.com/LinusCDE/rmWacomToMouse) - Use the wacom pen as a mouse to draw on your pc.
 - [rmWebUiTools](https://github.com/LinusCDE/rmWebUiTools) - View a file tree, see statistics and export/backup all files with some simple scripts utilizing the web ui.
 - [send_by_rmapi](https://github.com/LisaGlaser/send_by_rmapi) - A Calibre plugin to send books to your reMarkable, making use of rmapi.
+- [Remarkable Morning News](https://github.com/ktibr0/Remarkable_morning_news) - Automatically sends daily news to your reMarkable tablet.
+
 
 ## Screen Sharing/Streaming
 
