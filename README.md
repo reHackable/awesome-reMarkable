@@ -240,8 +240,14 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
   - `tagButton` - Puts a Tag action next to other list controls to open the tag editor directly.
   - `uncompressDock` - Replaces the condensed More menu in the new document dock with dedicated buttons for notebook, folder, and quick sheet creation.
 - [xovi-qmd-extensions (rmitchellscott)](https://github.com/rmitchellscott/xovi-qmd-extensions)
+  - `createPagesPaperProSize` - Override new page creation to use Paper Pro dimensions.
+  - `createPagesRM2Size` - Override new page creation to use reMarkable 2 dimensions.
+  - `disableSelectionAutoScroll` - Disable auto scrolling when moving a selection.
+  - `hideDevModeIcon` - Hide the developer mode icon next to the battery icon.
   - `hideZoomIndicator` - Auto-hide zoom indicator after 4 seconds.
   - `miniLightSleep` - Replaces the light sleep banner with text saying "Sleeping" with a white background at the top right of the screen.
+  - `preventNotebookZoomOut` - Forces all notebook pages to start at 1x zoom with optional horizontal offset. Designed for the Paper Pro Move.
+  - `quickSettingsScreenshot` - Adds a screenshot button to the quick settings menu.
   - `unlockMethodsContent` - Bypass subscription check for using on-device Methods templates and documents.
 - [xovi-qmd-extensions (StarNumber12046)](https://github.com/StarNumber12046/xovi-qmd-extensions)
   - `autoNewPage` - Removes the "New Page" button when swiping past end.
