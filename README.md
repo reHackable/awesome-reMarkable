@@ -138,7 +138,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [Syncthing-for-reMarkable-AppLoad](https://github.com/paviro/Syncthing-for-reMarkable) - Syncthing appload app for reMarkable (incl. Paper Pro and Paper Pro Move).
 - [url2epub](https://github.com/fishy/url2epub) - Telegram bot to generate ePub out of URL and send directly to reMarkable Cloud.
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
-- [Zotero2reMarkable Bridge](https://github.com/opal06/zotero2remarkable_bridge) - Sync files from Zotero to reMarkable and back based on tags; supports v2.7< highlights.
+- (Unmaintained) [Zotero2reMarkable Bridge](https://github.com/opal06/zotero2remarkable_bridge) - Sync files from Zotero to reMarkable and back based on tags; supports v2.7< highlights.
 
 ## Custom Templates
 
@@ -146,7 +146,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - PDF planner designed for e-ink devices.
 - [ReCalendar](https://github.com/klimeryk/recalendar) - Highly customizable calendar generator in PHP optimized for reMarkable.
 - [reMarkable-bujo](https://github.com/vonneudeck/remarkable-bujo) - "Bullet Journal" templates.
-- [remarkable-engineering](https://gitlab.com/asciiphil/remarkable-engineering) - Engineering-style grid templates.
+- [remarkable-engineering](https://gitlab.com/asciipip/remarkable-engineering) - Engineering-style grid templates.
 - [reMarkable-gtd-templates](https://github.com/BartKeulen/remarkable-gtd-templates) - "Getting Things Done" templates.
 - [reMarkable_templates](https://github.com/steka/reMarkable_templates) - White lines/squares on gray background.
 - [reMarkabletemplates](https://github.com/equivocates/remarkabletemplates/) - Planner per 1 or 3 weeks.
@@ -157,7 +157,6 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 ### Template Builders
 
 - [Daily Journal / Wardley Maps / Figma template](https://www.figma.com/community/file/1389237140795352688) - A daily planner/journal, Wardley Map, and forkable general starter kit for building custom templates with Figma.
-- [NoTeTo](https://noteto.needleinthehay.de/) - Design templates by drag and drop components
 - [ReCalendar.me](https://recalendar.me/) - Highly customizable online calendar generator optimized for reMarkable.
 - [Remarkable Grid Template Generator](https://xosh.org/remarkable-grid-template/) - Generate pixel perfect line grid and dotted grid templates
 - [Remarkably Planner Builder](https://remarkably-organized.pages.dev/) - Generate hyperlinked pdf planners
