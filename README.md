@@ -196,6 +196,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [Crazy Cow](https://github.com/machinelevel/sp425-crazy-cow) - Typewriter input from USB keyboard directly into reMarkable interface.
 - [ReCept](https://github.com/funkey/recept/) - Fix for the rM2 jagged line issue.
 - [reLuminate](https://github.com/unreMarkableLabs/reLuminate) - Enable enhanced screen brightness levels on the reMarkable Paper Pro.
+- [reMarkable 2 Language Mod](https://github.com/Sterny99/remarkable-2-language-mod) - Patch the on-screen keyboard layout and install custom fonts; persists across A/B OS updates.
 - [RemarkableLamyEraser](https://github.com/isaacwisdom/RemarkableLamyEraser/) - Supports Lamy Al Star stylus button to erase or undo for reMarkable tablets.
 - [remarkable-shortcuts](https://github.com/martinetd/remarkable-shortcuts) - Add extra 'gestures' (currently double taps) for easier navigation.
 - [rM Hacks](https://github.com/mb1986/rm-hacks) - Small improvements and tweaks for rM devices.
