@@ -72,6 +72,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [reMarkable-kaitai](https://github.com/matomatical/reMarkable-kaitai) - [Kaitai Struct](https://kaitai.io/) format specification for the binary lines format.
 - (Unmaintained) [reMarkable-layers](https://github.com/bsdz/remarkable-layers) - Python API for reading & writing reMarkable Lines format. Supports very basic conversion of PDFs and SVGs to Lines format.
 - [rmrl](https://github.com/rschroll/rmrl) - The reMarkable Rendering Library for Python converts annotated documents to PDF files.
+- [rmscene](https://github.com/ricklupton/rmscene) - Python library to read v6 files / software version 3.
 
 ### Other APIs
 
