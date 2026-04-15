@@ -187,7 +187,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rM2 Template Helper](https://www.freeremarkabletools.com/) Windows tool for template management, and to download community templates. 
 - [rMExplorer](https://github.com/bruot/pyrmexplorer/wiki) - GUI to browse, download/upload files and backup the tablet without using the cloud.
 - [rmUploader](https://github.com/lobre/rmuploader) - Simple web app to upload epub or pdf files to the reMarkable tablet via drag and drop.
-- [rmWebUI](https://github.com/polletfa/rmWebUI) - Simple web interface to the reMarkable&reg; cloud.
+- (Unmaintained) [rmWebUI](https://github.com/polletfa/rmWebUI) - Simple web interface to the reMarkable&reg; cloud.
 - (Unmaintained) [Slithin](https://github.com/furesoft/Slithin) - Free Management Application for Windows/Linux/MacOS.
 
 ## Interface Customization
