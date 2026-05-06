@@ -171,6 +171,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rm-version-switcher](https://github.com/rmitchellscott/rm-version-switcher) - An interactive CLI application for switching between installed reMarkable OS versions.
 - [rmtree](https://github.com/rmitchellscott/rmtree) - Unix-style tree command for the reMarkable's document filesystem.
 - [splash.dat converter](https://gist.github.com/iTrooz/fddfcce03c1c44b04231be73d6e7982a) - Simple script to convert an image to the rM2 .dat format for a splash screen.
+- [reExecute](https://github.com/Slenderman00/reExecute) - Persistent code execution bootstrap for reMarkable Paper Pro Move using the MDM agent config.
 
 ## GUI Clients
 
