@@ -168,6 +168,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 - [paginator](https://github.com/aflusche/paginator) - Physical foot pedal to turn pages on the device with no hands (e.g. for playing sheet music).
 - (Unmaintained)[remarvin](https://github.com/plan5/remarvin) - Profile and file encryption manager that allows to manage notebooks for different users and to optionally protect the files with a password through gocryptfs-based encryption (device only).
+- [reExecute](https://github.com/Slenderman00/reExecute) - Persistent code execution bootstrap for reMarkable Paper Pro Move using the MDM agent config.
 - [rm-version-switcher](https://github.com/rmitchellscott/rm-version-switcher) - An interactive CLI application for switching between installed reMarkable OS versions.
 - [rmtree](https://github.com/rmitchellscott/rmtree) - Unix-style tree command for the reMarkable's document filesystem.
 - [splash.dat converter](https://gist.github.com/iTrooz/fddfcce03c1c44b04231be73d6e7982a) - Simple script to convert an image to the rM2 .dat format for a splash screen.
