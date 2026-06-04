@@ -223,6 +223,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
   - `webserver-remote` - Exposes the USB webserver to all interfaces, with a confirmation dialog for inbound connections.
 - [Signature-rM](https://github.com/rM-self-serve/signature-rM) - Remove the signature from the bottom of emails sent from the device.
 - [WebInterface-OnBoot](https://github.com/rM-self-serve/webinterface-onboot) - Enable the web interface on boot.
+- [webinterface-rmpp](https://github.com/t3rminalV/webinterface-rmpp) - Enable web interface on boot and over wifi on the reMarkable Paper Pro. Includes authentication and SSL.
 - [WebInterface-Upload-Button](https://github.com/rM-self-serve/webinterface-upload-button) - Upload button for the web interface, alternative to drag and drop.
 - [WebInterface-Wifi](https://github.com/rM-self-serve/webinterface-wifi) - View the web interface if running, over wifi.
 - [xovi-extensions (FouzR)](https://github.com/FouzR/xovi-extensions)
