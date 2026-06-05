@@ -74,10 +74,6 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rmrl](https://github.com/rschroll/rmrl) - The reMarkable Rendering Library for Python converts annotated documents to PDF files.
 - [rmscene](https://github.com/ricklupton/rmscene) - Python library to read v6 files / software version 3.
 
-### Methods Format
-
-- [Reverse-engineered Methods format notes](https://github.com/Martes-Delta-Co/Remarkable-Mobile-Prototyping-Templates/blob/main/docs/methods-format-notes.md) - Remarkable's newest format, similar to SVG but with fewer supported commands and written in JSON
-
 ### Other APIs
 
 - [libreMarkable](https://github.com/canselcik/libremarkable) - A framework for developing applications with native refresh support for reMarkable Tablet.
