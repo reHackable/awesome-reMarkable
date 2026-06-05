@@ -76,7 +76,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 ### Methods Format
 
-- [Reverse-engineered Methods format docs](https://github.com/Martes-Delta-Co/Remarkable-Mobile-Prototyping-Templates/blob/main/docs/methods-format-notes.md) - Remarkable's newest format, similar to SVG but with fewer supported commands and written in JSON
+- [Reverse-engineered Methods format notes](https://github.com/Martes-Delta-Co/Remarkable-Mobile-Prototyping-Templates/blob/main/docs/methods-format-notes.md) - Remarkable's newest format, similar to SVG but with fewer supported commands and written in JSON
 
 ### Other APIs
 
