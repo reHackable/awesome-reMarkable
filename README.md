@@ -308,6 +308,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [remarkable-api](https://github.com/Penguin-Guru/remarkable-api) - A simple bash script to interact with reMarkable devices' USB Web Interface.
 - [reMarkable-crosswords](https://github.com/shapeshed/remarkable-crosswords) - Get crosswords freshly delivered to your Remarkable every morning.
 - [reMarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem wrapper for the reMarkable tablet.
+- [remarkable-nixos](https://github.com/gitman-101111/remarkable-nixos) - Run NixOS on your reMarkable Pro Paper Move (others possible)
 - [reMarkable-random-screens](https://github.com/Neurone/reMarkable) - Change your poweroff and suspend screens every 5 minutes with random images of your choice
 - [reMarkable-tablet-driver](https://github.com/FreeCap23/reMarkable-tablet-driver) - Use your reMarkable as a drawing tablet in Linux with pressure sensitivity and tilt. Works in Wayland.
 - [reMarkable-touchgestures](https://github.com/ddvk/remarkable-touchgestures) - Touch gestures (swipe/touch) for easy page navigation.
