@@ -131,6 +131,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [reMarkable Todoist and Calendar Sync](https://github.com/usuallycwdillon/remarkable-calendar) Puts Todoist tasks and Google calendar events on a calendar then pushes to reMarkable.
 - [remarkable-zapier](https://github.com/artes-dev/remarkable-zapier) - Zapier Integration for reMarkable Cloud
 - [remarking](https://github.com/sabidib/remarking) - CLI tool to extract highlights from any document in the reMarkable cloud.
+- [rm-brain](https://github.com/gabrielanhaia/remarkable-brain) - Turns your reMarkable notebooks into a local-first, searchable second brain you query through Claude Desktop.
 - [rm-pdf-tools](https://github.com/skius/rm-pdf-tools) - Service that allows users to insert and delete pages from annotated PDFs on the device.
 - [rM-sync](https://github.com/simonschllng/rm-sync) - Sync script for reMarkable paper tablet.
 - [RMfuse](https://github.com/rschroll/rmfuse) - FUSE filesystem for the reMarkable Cloud.
