@@ -89,7 +89,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [reMarkable wikipedia](https://github.com/dps/remarkable-wikipedia) - Offline wikipedia reader for reMarkable.
 - (Unmaintained) [remarkaBot](https://github.com/Davide95/remarkaBot) - Fetch your documents from Telegram.
 - [whiteboard-hypercard](https://github.com/fenollp/reMarkable-tools) - Live collaboration, drawing, chat, whiteboarding.
-- [Writerdeck for reMarkable 1](https://github.com/bjornte/Writerdeck-for-reMarkable) - Distraction-free Markdown word processor with Bluetooth & USB keyboard support. Optional syncing & encryption of documents.
+- [Writerdeck for reMarkable 1](https://github.com/bjornte/Writerdeck-for-reMarkable) - Distraction-free Markdown word processor with keyboard support via a companion app or usb. With optional syncing and encryption of documents.
 
 ### Browser extensions
 
