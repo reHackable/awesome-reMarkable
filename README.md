@@ -293,7 +293,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [ePUB to reMarkable PDF](https://github.com/suntorytimed/epub_to_remarkable) - Self hostable web service for turning an EPUB into a reMarkable optimised PDF.
 - [Funcky reMarkable Exporter](https://github.com/simonbaudart/Funcky.Remarkable.Exporter) - Export notes from a reMarkable Tablet to File System and External Services.
 - [Goosepaper](https://github.com/j6k4m8/goosepaper): Deliver prettily-formatted RSS feeds, news articles, Wikipedia articles-of-the-day, and more to your reMarkable tablet.
-- [Goosepaper Home Assistant Add-on](https://github.com/Smengerl/goosepaper-addon) - Home Assistant add-on wrapping Goosepaper: scheduled, personalized newspaper PDFs (RSS feeds, Wikipedia, weather, logic puzzles, daily comics) delivered to your reMarkable, configured and run entirely inside Home Assistant.
+- [Goosepaper Home Assistant Add-on](https://github.com/Smengerl/goosepaper-addon) - Goosepaper add-on for Home Assistant.
 - [instapaper-as-pdf-to-reMarkable](https://github.com/fabianmu/instapaper-as-pdf-to-remarkable) - Export Instapaper-Articles to PDF and send them to a connected rM tablet.
 - [landscape-pdf](https://github.com/nmoran/landscape-pdf) - Utility to convert pdf documents to read in landscape mode. Useful for papers and text books.
 - [mail2rm](https://github.com/glatzor/mail2rm) - Mail PDF documents to your reMarkable cloud using your mail transport agent e.g. postfix.
