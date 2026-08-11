@@ -122,7 +122,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - (Unmaintained) [reCatchable](https://github.com/lapwat/reCatchable) - Turn websites into ebooks, upload them to reMarkable.
 - [reGitable](https://github.com/after-eight/regitable) - Backup your reMarkable with git and sync changes to a remote repository automatically.
 - [Remarcal](https://remarcal.com/) - Sync Google, Outlook, Apple, and more calendars to reMarkable.
-- [remarkable-axi](https://github.com/JarvusInnovations/remarkable-axi) - Manage content on your reMarkable tablet through reMarkable Cloud - browse and organize files, upload PDFs and EPUBs, and send web articles as reflowable EPUBs. Built for AI agents.
+- [remarkable-axi](https://github.com/JarvusInnovations/remarkable-axi) - CLI to manage reMarkable Cloud content: browse and organize files, upload PDFs and EPUBs, and turn web articles into reflowable EPUBs. Talks to the Cloud API directly with no rMAPI dependency, and is built as an AXI, a CLI optimized for AI agents to drive.
 - [reMarkable Morning News_2](https://github.com/ktibr0/Remarkable_morning_news_2) - Automatically sends daily news to your reMarkable tablet. Standalone web application with persistent storage.
 - [reMarkable RSS](https://github.com/eksubin/Remarkable-RSS-Feed) - Read RSS feeds on reMarkable via google drive integration. Automated Script to convert RSS-feeds as PDFs and upload to google drive.
 - [remarkable-mcp](https://github.com/SamMorrowDrums/remarkable-mcp) - Model Context Protocol server enabling AI assistants to read and browse your reMarkable documents via SSH (no subscription required) or Cloud API. [Blog post](https://sam-morrow.com/blog/building-an-mcp-server-for-remarkable).
