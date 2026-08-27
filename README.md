@@ -1,39 +1,58 @@
 # Awesome reMarkable [![Discord](https://img.shields.io/discord/385916768696139794.svg?label=reMarkable&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/u3P9sDW)
 
 
+
+
 # [<img src="Awesome.png"></p>](https://github.com/sindresorhus/awesome)
+
 
 The [reMarkable](https://www.remarkable.com) is a paper tablet for those who prefer writing on paper. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers.
 
+
 *Contributions are welcome as long as they follow the [guidelines](CONTRIBUTING.md).*
+
 
 ## Disclaimer
 
+
 No project here is affiliated or endorsed by [reMarkable AS](https://github.com/remarkable). If you modify your device official support might refuse to help you.
+
 
 ### Write down your SSH password
 
+
 **:warning: WARNING, READ THIS FIRST :warning:**
+
 
 **Make sure you have saved your SSH password somewhere secure, or you have setup a [SSH key](https://remarkable.guide/guide/access/ssh.html#creating-a-ssh-key)**
 
+
 You can find the SSH password in your settings: `Settings > Help > Copyrights and licenses > General information (scroll down)`.
+
 
 Failure to do so could result in a **soft-bricked device** that requires [emergency recovery](https://remarkable.guide/tech/recovery.html).
 
+
 ### Factory reset may brick your device
+
 
 This function may not do what you are expecting. While it resets all user data, it will not restore the device to the original factory condition. It will reset your SSH password and remove all SSH keys, which may make it impossible to connect to your device if it is malfunctioning.
 
+
 See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for more information on how to properly factory reset your device.
 
+
 ### Take special care if you are using a reMarkable 2.
+
 
 - System recovery requires some hardware. See https://remarkable.guide/tech/recovery.html#remarkable-2-recovery for more information.
 - The screen on rm2 and rm1 are different. Workarounds have been developed to interact with the rM2 framebuffer but some projects might not work on it. See [ddvk/remarkable2-framebuffer](https://github.com/ddvk/remarkable2-framebuffer) and [ddvk/remarkable2-framebuffer#14](https://github.com/ddvk/remarkable2-framebuffer/issues/14).
 
 
+
+
 ## Contents
+
 
 - [APIs](#apis)
   - [Cloud API](#cloud-api)
@@ -50,9 +69,12 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [Other](#other)
 - [Screen Sharing/Streaming](#screen-sharingstreaming)
 
+
 ## APIs
 
+
 ### Cloud API
+
 
 - (Unmaintained) [google-drive-remarkable-sync](https://github.com/bsdz/google-drive-remarkable-sync) - Apps Script API for reMarkable Cloud. Includes Synchronizer capability to automate mirroring of documents from Google Drive to reMarkable Cloud.
 - [jrmapi](https://github.com/jlarriba/jrmapi) - A Java API for the reMarkable Cloud.
@@ -65,7 +87,9 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rmcl](https://github.com/rschroll/rmcl)- Asynchronous Python library for the reMarkable Cloud.
 - [rmfakecloud](https://github.com/ddvk/rmfakecloud) - Fake Cloud Sync, server implementation of the Cloud API.
 
+
 ### Lines Format
+
 
 - [lines-are-beautiful](https://github.com/ax3l/lines-are-beautiful) - C++ File API for the reMarkable tablet.
 - [lines-are-rusty](https://github.com/ax3l/lines-are-rusty) - Rust File API for the reMarkable tablet.
@@ -74,11 +98,15 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rmrl](https://github.com/rschroll/rmrl) - The reMarkable Rendering Library for Python converts annotated documents to PDF files.
 - [rmscene](https://github.com/ricklupton/rmscene) - Python library to read v6 files / software version 3.
 
+
 ### Other APIs
+
 
 - [libreMarkable](https://github.com/canselcik/libremarkable) - A framework for developing applications with native refresh support for reMarkable Tablet.
 
+
 ## Applications
+
 
 - [harmony](https://rmkit.dev/apps/harmony) - a low latency sketching app with procedural brushes.
 - [KOReader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.
@@ -91,12 +119,16 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [whiteboard-hypercard](https://github.com/fenollp/reMarkable-tools) - Live collaboration, drawing, chat, whiteboarding.
 - [Writerdeck for reMarkable 1](https://github.com/bjornte/Writerdeck-for-reMarkable) - Distraction-free Markdown word processor with keyboard support via a companion app or usb. With optional syncing and encryption of documents.
 
+
 ### Browser extensions
+
 
 - [rePub](https://github.com/hafaio/repub) - unofficial browser extension that creates ePubs from websites and can either upload them to reMarkable cloud or save them locally, currently for Chrome only
 - [rePubfox](https://github.com/jrockwar/repubfox) - a hard fork of rePub for Firefox
 
+
 ### Games
+
 
 - [chessMarkable](https://github.com/LinusCDE/chessmarkable) - Play chess against a bot or a friend.
 - [DOOMarkable](https://github.com/LinusCDE/doomarkable) - Play DOOM on the reMarkable 1.
@@ -104,14 +136,19 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [recrossable](https://github.com/sandsmark/recrossable) - Crossword game with simplistic handwriting recognition and automatic generation of crosswords.
 - [retris](https://github.com/LinusCDE/retris) - Play a clone of the popular block stacking game with either buttons or swipe guestures.
 
+
 ### Launchers
+
 
 - [draft-reMarkable](https://github.com/dixonary/draft-reMarkable) - A launcher for the reMarkable tablet, which wraps around the standard interface.
 - [oxide](https://oxide.eeems.codes) - A launcher application for the reMarkable tablet.
 - [remux](https://rmkit.dev/apps/remux) - A multi-tasking launcher for the reMarkable tablet.
 
 
+
+
 ## Cloud Tools
+
 
 - [AgentNews-RemarkableRSSReader](https://github.com/eksubin/AgentNews-RemarkableRSSReader) - An AI agent for processing RSS news feeds and sending them to reMarkable via Google Drive API.
 - [Aviary](https://github.com/rmitchellscott/aviary) - A webhook-driven document uploader for reMarkable Cloud and rmfakecloud, featuring a static UI and a Go backend. Optional integration for email via AWS SES.
@@ -124,6 +161,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [Remarcal](https://remarcal.com/) - Sync Google, Outlook, Apple, and more calendars to reMarkable.
 - [reMarkable Morning News_2](https://github.com/ktibr0/Remarkable_morning_news_2) - Automatically sends daily news to your reMarkable tablet. Standalone web application with persistent storage.
 - [reMarkable RSS](https://github.com/eksubin/Remarkable-RSS-Feed) - Read RSS feeds on reMarkable via google drive integration. Automated Script to convert RSS-feeds as PDFs and upload to google drive.
+- [remarkable-codex](https://github.com/AzatArslanov/remarkable-codex) - Codex plugin that turns Markdown reports and investigation results into PDFs and publishes them to the reMarkable library.
 - [remarkable-mcp](https://github.com/SamMorrowDrums/remarkable-mcp) - Model Context Protocol server enabling AI assistants to read and browse your reMarkable documents via SSH (no subscription required) or Cloud API. [Blog post](https://sam-morrow.com/blog/building-an-mcp-server-for-remarkable).
 - [remarkable_simplenote](https://github.com/bgribble/remarkable_simplenote) - Sync simplenote notes to reMarkable (currently one-way)
 - [reMarkable-Sink](http://github.com/hmenzagh/reMarkable-Sink) - Turn a folder into a wormhole to your reMarkable.
@@ -144,7 +182,9 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [zotero-reMarkable](https://github.com/michaelmior/zotero-remarkable) - Script to sync PDFs from the [Zotero](https://www.zotero.org/) reference manager.
 - (Unmaintained) [Zotero2reMarkable Bridge](https://github.com/opal06/zotero2remarkable_bridge) - Sync files from Zotero to reMarkable and back based on tags; supports v2.7< highlights.
 
+
 ## Custom Templates
+
 
 - [blank_slate_pdf](https://github.com/sowcow/blank_slate_pdf) - Flexible PDFs for nested lists or experiments with no predefined template, separate simple calendar, customization using ruby code.
 - [latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - PDF planner designed for e-ink devices.
@@ -159,7 +199,9 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [re-Planner](https://github.com/PepikVaio/reMarkable_re-Planner) - Watermarked PDF calendar for reMarkable 1 and 2. You can pay to remove the watermark, and to receive a customized version.
 - [Mobile UX Sketching Templates](https://github.com/Martes-Delta-Co/Remarkable-Mobile-Prototyping-Templates) - Mobile phone templates with 12 column layouts, grids, and multiple combinations of 1/2/4-up layouts with space for note-taking, in iPhone and Android flavors, in Methods format, so you can swap templates on each page of a notebook
 
+
 ### Template Builders
+
 
 - [Daily Journal / Wardley Maps / Figma template](https://www.figma.com/community/file/1389237140795352688) - A daily planner/journal, Wardley Map, and forkable general starter kit for building custom templates with Figma.
 - [ReCalendar.me](https://recalendar.me/) - Highly customizable online calendar generator optimized for reMarkable.
@@ -167,7 +209,9 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [Remarkably Planner Builder](https://remarkably-organized.pages.dev/) - Generate hyperlinked pdf planners
 - [reMarkable Template Builder](https://templarian.github.io/remarkable/) - Generate Isometric and Grid templates of all sizes
 
+
 ## Device Tools
+
 
 - [paginator](https://github.com/aflusche/paginator) - Physical foot pedal to turn pages on the device with no hands (e.g. for playing sheet music).
 - (Unmaintained)[remarvin](https://github.com/plan5/remarvin) - Profile and file encryption manager that allows to manage notebooks for different users and to optionally protect the files with a password through gocryptfs-based encryption (device only).
@@ -177,7 +221,9 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rmtree](https://github.com/rmitchellscott/rmtree) - Unix-style tree command for the reMarkable's document filesystem.
 - [splash.dat converter](https://gist.github.com/iTrooz/fddfcce03c1c44b04231be73d6e7982a) - Simple script to convert an image to the rM2 .dat format for a splash screen.
 
+
 ## GUI Clients
+
 
 - [asTounding](https://github.com/jlarriba/astounding) -  A multiplatform GUI application for the reMarkable cloud, including Linux.
 - [reManager](https://github.com/rmitchellscott/reManager) - Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets using the [Vellum](https://github.com/vellum-dev/vellum) package manager.
@@ -196,7 +242,9 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rmUploader](https://github.com/lobre/rmuploader) - Simple web app to upload epub or pdf files to the reMarkable tablet via drag and drop.
 - (Unmaintained) [Slithin](https://github.com/furesoft/Slithin) - Free Management Application for Windows/Linux/MacOS.
 
+
 ## Interface Customization
+
 
 - [AppLoad](https://github.com/asivery/rm-appload) - Enables windowed and fullscreen apps inside the reMarkable interface.
 - [Book-safe](https://github.com/dvdsk/Book-safe) - Hide books/documents between a given time period.
@@ -281,7 +329,9 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
   - `uncompressCreate` - Expands "+" menu with separate folder/notebook/page options.
 - [xovi-tripletap](https://github.com/rmitchellscott/xovi-tripletap) - Start xovi with a triple-press of the power button.
 
+
 ## Other
+
 
 - (Unmaintained) [Calibre-Remarkable-Device-Driver-Plugin](https://github.com/naclander/Calibre-Remarkable-Device-Driver-Plugin) - A Calibre Plugin to Manage your Remarkable Books.
 - (Unmaintained) [reHackable/scripts](https://github.com/reHackable/scripts) - A set of bash scripts that may enhance your reMarkable experience.
@@ -340,7 +390,9 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rmWebUiTools](https://github.com/LinusCDE/rmWebUiTools) - View a file tree, see statistics and export/backup all files with some simple scripts utilizing the web ui.
 - [send_by_rmapi](https://github.com/LisaGlaser/send_by_rmapi) - A Calibre plugin to send books to your reMarkable, making use of rmapi.
 
+
 ## Screen Sharing/Streaming
+
 
 - [AppLoad-RMStream](https://github.com/asivery/appload-rmstream) - An AppLoad application for streaming your reMarkable tablet's screen over HTTP.
 - [goMarkableStream](https://github.com/owulveryck/goMarkableStream) - Stream the screen of the reMarkable 2 (FW 2.5) easily (client/server in Go with no installation) along with the colors (with FW > 2.11.x).
