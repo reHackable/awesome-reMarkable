@@ -64,6 +64,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - (Unmaintained) [rmapy](https://github.com/subutux/rmapy) - ReMarkable Cloud Python API.
 - [rmcl](https://github.com/rschroll/rmcl)- Asynchronous Python library for the reMarkable Cloud.
 - [rmfakecloud](https://github.com/ddvk/rmfakecloud) - Fake Cloud Sync, server implementation of the Cloud API.
+- [reMarkAI](https://github.com/snlpatel001213/reMarkAI) -  AI-Powered "Define" & "Explain" feature for reMarkable Paper Pro & RM2
 
 ### Lines Format
 
