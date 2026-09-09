@@ -340,6 +340,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rmWacomToMouse](https://github.com/LinusCDE/rmWacomToMouse) - Use the wacom pen as a mouse to draw on your pc.
 - [rmWebUiTools](https://github.com/LinusCDE/rmWebUiTools) - View a file tree, see statistics and export/backup all files with some simple scripts utilizing the web ui.
 - [send_by_rmapi](https://github.com/LisaGlaser/send_by_rmapi) - A Calibre plugin to send books to your reMarkable, making use of rmapi.
+- [inkbridge](https://github.com/ClinShaiju/inkbridge) - (Made for rMPP) A program for Windows feeding touch and pressure-sensitive pen inputs to OpenTabletDriver (OTD) over USB cable.
 
 ## Screen Sharing/Streaming
 
