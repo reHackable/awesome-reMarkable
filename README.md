@@ -126,6 +126,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [Remarcal](https://remarcal.com/) - Sync Google, Outlook, Apple, and more calendars to reMarkable.
 - [reMarkable Morning News_2](https://github.com/ktibr0/Remarkable_morning_news_2) - Automatically sends daily news to your reMarkable tablet. Standalone web application with persistent storage.
 - [reMarkable RSS](https://github.com/eksubin/Remarkable-RSS-Feed) - Read RSS feeds on reMarkable via google drive integration. Automated Script to convert RSS-feeds as PDFs and upload to google drive.
+- [remarkable-codex](https://github.com/AzatArslanov/remarkable-codex) - Codex plugin that turns Markdown reports and investigation results into PDFs and publishes them to the reMarkable library.
 - [remarkable-mcp](https://github.com/SamMorrowDrums/remarkable-mcp) - Model Context Protocol server enabling AI assistants to read and browse your reMarkable documents via SSH (no subscription required) or Cloud API. [Blog post](https://sam-morrow.com/blog/building-an-mcp-server-for-remarkable).
 - [remarkable_simplenote](https://github.com/bgribble/remarkable_simplenote) - Sync simplenote notes to reMarkable (currently one-way)
 - [reMarkable-Sink](http://github.com/hmenzagh/reMarkable-Sink) - Turn a folder into a wormhole to your reMarkable.
