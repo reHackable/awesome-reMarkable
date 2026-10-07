@@ -89,6 +89,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [reMarkable keywriter](https://github.com/dps/remarkable-keywriter) - A distraction free keyboard notes app.
 - [reMarkable SSH explorer](https://github.com/iacobucci/rm-ssh-explorer) - An on-device ssh explorer for downloading pdf files from a server to the reMarkable tablet
 - [reMarkable wikipedia](https://github.com/dps/remarkable-wikipedia) - Offline wikipedia reader for reMarkable.
+- [rmweb](https://github.com/exp78/rmweb) - Native WPE WebKit web browser for the Paper Pro: reader mode, content blocking, settings page, form autofill. MIT.
 - (Unmaintained) [remarkaBot](https://github.com/Davide95/remarkaBot) - Fetch your documents from Telegram.
 - [whiteboard-hypercard](https://github.com/fenollp/reMarkable-tools) - Live collaboration, drawing, chat, whiteboarding.
 - [Writerdeck for reMarkable 1](https://github.com/bjornte/Writerdeck-for-reMarkable) - Distraction-free Markdown word processor with keyboard support via a companion app or usb. With optional syncing and encryption of documents.
