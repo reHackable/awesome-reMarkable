@@ -341,6 +341,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rmWacomToMouse](https://github.com/LinusCDE/rmWacomToMouse) - Use the wacom pen as a mouse to draw on your pc.
 - [rmWebUiTools](https://github.com/LinusCDE/rmWebUiTools) - View a file tree, see statistics and export/backup all files with some simple scripts utilizing the web ui.
 - [send_by_rmapi](https://github.com/LisaGlaser/send_by_rmapi) - A Calibre plugin to send books to your reMarkable, making use of rmapi.
+- [ComicScissors](https://github.com/rustsky/comicscissors) - Splits comic and manga pages into panels and repacks them as PDFs sized for the reMarkable, readable without zooming.
 
 ## Screen Sharing/Streaming
 
