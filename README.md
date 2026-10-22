@@ -188,6 +188,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [reMarkable Remember](https://github.com/ds160/remarkable-remember) - A cross-platform client for offline management of backups, notebooks, templates and hand writing recognition via MyScript.
 - [reMarkable-assistant](https://github.com/richeymichael/remarkable-assistant) - Manage templates, splash screens, and settings on your reMarkable tablet.
 - [reMarkable-hyutilities](https://github.com/moovida/remarkable-hyutilities) - A GUI written in java to backup your device, upload templates and modify splash screens.
+- [Remora](https://github.com/openparen/remora) - Native macOS reader for the reMarkable cloud, live while you write, with a stable link to every page.
 - [ReMy](https://github.com/bordaigorl/remy) - A GUI to browse, preview documents, export documents with custom settings, all via SSH (no cloud needed); works from local raw backups too.
 - [RMHook](https://github.com/NohamR/RMHook) - A dynamic library injection tool for the reMarkable Desktop macOS application, enabling connection to self-hosted rmfakecloud servers.
 - [RMHook-iOS](https://github.com/NohamR/RMHook-iOS/) - A hooking tool for the reMarkable iOS application, enabling connection to self-hosted rmfakecloud servers.
