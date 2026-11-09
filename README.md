@@ -160,6 +160,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [reMarkable planning/journaling templates](https://github.com/msencer/remarkable_templates) - Collection of daily/weekly planning, journaling templates
 - [re-Planner](https://github.com/PepikVaio/reMarkable_re-Planner) - Watermarked PDF calendar for reMarkable 1 and 2. You can pay to remove the watermark, and to receive a customized version.
 - [Mobile UX Sketching Templates](https://github.com/Martes-Delta-Co/Remarkable-Mobile-Prototyping-Templates) - Mobile phone templates with 12 column layouts, grids, and multiple combinations of 1/2/4-up layouts with space for note-taking, in iPhone and Android flavors, in Methods format, so you can swap templates on each page of a notebook
+- [e-ink PDF page sizes](https://templacity.com/e-ink-pdf-sizes/) - Free reference: exact PDF page size in points and mm, resolution and screen shape for the reMarkable 2, Paper Pro, Paper Pro Move and Paper Pure (plus other e-ink tablets), with a browser checker and blank PDFs at size. Community-measured; verify against your device.
 
 ### Template Builders
 
