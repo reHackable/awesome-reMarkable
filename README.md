@@ -139,6 +139,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [rM-sync](https://github.com/simonschllng/rm-sync) - Sync script for reMarkable paper tablet.
 - [RMfuse](https://github.com/rschroll/rmfuse) - FUSE filesystem for the reMarkable Cloud.
 - [rss2remarkable](https://codeberg.org/akselmo/rss2remarkable) - Generates PDF of given RSS feeds and send is to your reMarkable cloud.
+- [Send It](https://sendit.expo.app) - Send files and convert web links from any app on your iPhone.
 - [send-to-remarkable](https://github.com/zegevlier/send-to-remarkable) - Upload documents to the reMarkable from an email, like send to Kindle.
 - [sync_zotero_remarkable](https://github.com/danijoo/sync_zotero_remarkable) - Sync PDFs from Zotero to reMarkable.
 - [Syncthing-for-reMarkable-AppLoad](https://github.com/paviro/Syncthing-for-reMarkable) - Syncthing appload app for reMarkable (incl. Paper Pro and Paper Pro Move).
