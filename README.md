@@ -164,6 +164,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 ### Template Builders
 
 - [Daily Journal / Wardley Maps / Figma template](https://www.figma.com/community/file/1389237140795352688) - A daily planner/journal, Wardley Map, and forkable general starter kit for building custom templates with Figma.
+- [HourLife Digital Planner Studio](https://www.hourlife.com/printables/digital-planner/studio) - Free generator for a hyperlinked year planner PDF (year, month, week and day pages), in 3:4, A4 or 16:10, in English, Spanish, French, Portuguese or Japanese.
 - [ReCalendar.me](https://recalendar.me/) - Highly customizable online calendar generator optimized for reMarkable.
 - [Remarkable Grid Template Generator](https://xosh.org/remarkable-grid-template/) - Generate pixel perfect line grid and dotted grid templates
 - [Remarkably Planner Builder](https://remarkably-organized.pages.dev/) - Generate hyperlinked pdf planners
